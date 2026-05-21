@@ -267,7 +267,7 @@ const page6 = [
     alignment: AlignmentType.CENTER,
     spacing: { before: 200 },
     border: { top: { style: BorderStyle.SINGLE, size: 2, color: ACCENT, space: 8 } },
-    children: [new TextRun({ text: "Tiange Xia  |  tiange.xia@columbia.edu  |  GitHub: github.com/xiatiange2003", font: "Arial", size: 18, color: "888888" })],
+    children: [new TextRun({ text: "Tiange Xia  |  tiange.xia@columbia.edu  |  GitHub: github.com/tiangexia-dash", font: "Arial", size: 18, color: "888888" })],
   }),
 ];
 
