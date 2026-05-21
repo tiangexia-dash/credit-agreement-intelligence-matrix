@@ -1,0 +1,247 @@
+{
+  "ebitda_definition": {
+    "ebitda_base_definition": "Consolidated Net Income plus various addbacks",
+    "ebitda_base_citation": "\"Consolidated EBITDA\" shall mean, for any Test Period, the sum (without duplication) of Consolidated Net Income for such Test Period; plus",
+    "addbacks": [
+      {
+        "category": "Taxes",
+        "description": "Provisions for taxes based on income or profits or capital gains, plus withholding taxes, franchise or similar taxes",
+        "cap_or_limit": "None",
+        "citation": "provisions for taxes based on income or profits or capital gains, plus withholding taxes, franchise or similar taxes, of Borrower and its Restricted Subsidiaries for such Test Period;"
+      },
+      {
+        "category": "Interest Expense",
+        "description": "Consolidated Interest Expense (net of interest income other than interest income in respect of notes receivable and similar items)",
+        "cap_or_limit": "None",
+        "citation": "Consolidated Interest Expense (net of interest income (other than interest income in respect of notes receivable and similar items)) of Borrower and its Restricted Subsidiaries for such Test Period, whether paid or accrued and whether or not capitalized;"
+      },
+      {
+        "category": "Debt and Equity Issuance Costs",
+        "description": "Any cost, charge, fee or expense associated with any issuance or proposed issuance of debt, equity or any refinancing transaction or amendment or modification of any debt instrument",
+        "cap_or_limit": "None",
+        "citation": "any cost, charge, fee or expense (including discounts and commissions, premiums and penalties, original issue discount, debt issuance costs and deferred financing costs and fees and charges incurred in respect of letters of credit or bankers acceptance financings) (or any amortization or write-off of any of the foregoing) associated with any issuance (or proposed issuance) of debt, or equity or any refinancing transaction (or proposed refinancing transaction) or any amendment or other modification of any debt instrument;"
+      },
+      {
+        "category": "Depreciation and Amortization",
+        "description": "Depreciation, amortization (including amortization of goodwill and other intangibles) and any other non-cash charges or expenses, including any write-off or write-down, with specified exclusions",
+        "cap_or_limit": "None",
+        "citation": "depreciation, amortization (including amortization of goodwill and other intangibles) and any other non-cash charges or expenses, including any write-off or write-down, reducing Consolidated Net Income (excluding (x) any amortization of a prepaid cash expense that was paid in a prior Test Period and (y) any non-cash charges and expenses that result in an accrual of a reserve for cash charges or expenses in any future Test Period that Borrower elects not to add back in the current Test Period (it being understood that reserves may be charged in the current Test Period or when paid, as reasonably determined by Borrower)) of Borrower and its Restricted Subsidiaries for such Test Period; provided that if any such non-cash charges or expenses represent an accrual of a reserve for potential cash items in any future Test Period, the cash payment in respect thereof in such future Test Period shall be subtracted from Consolidated EBITDA to the extent Borrower elected to previously add back such amounts to Consolidated EBITDA;"
+      },
+      {
+        "category": "Pre-Opening Expenses",
+        "description": "Any Pre-Opening Expenses",
+        "cap_or_limit": "None",
+        "citation": "any Pre-Opening Expenses;"
+      },
+      {
+        "category": "Restructuring and Non-Recurring Charges",
+        "description": "Restructuring charges or reserve, costs incurred in connection with non-recurring strategic initiatives, business optimization expenses, and unusual or non-recurring charges or items of loss or expense",
+        "cap_or_limit": "None",
+        "citation": "the amount of any restructuring charges or reserve (including those relating to severance, relocation costs and one-time compensation charges), costs incurred in connection with any non-recurring strategic initiatives or new initiatives, other business optimization expenses (including incentive costs and expenses relating to business optimization programs and signing, retention and completion bonuses) and any unusual or non-recurring charges or items of loss or expense (including, without limitation, losses on asset sales (other than asset sales in the ordinary course of business));"
+      },
+      {
+        "category": "Transaction-Related Fees and Expenses",
+        "description": "Charges, fees and expenses related to the Transactions, Specified Transactions, Permitted Acquisition, Investment, disposition, Restricted Payment or Junior Prepayment",
+        "cap_or_limit": "None",
+        "citation": "any charges, fees and expenses (or any amortization thereof) (including, without limitation, all legal, accounting, advisory or other transaction-related fees, charges, costs and expenses and any bonuses or success fee payments related to the Transactions) related to the Transactions, any Specified Transactions, any Permitted Acquisition, Investment (including any other Acquisition), disposition, Restricted Payment or Junior Prepayment (or any such proposed Specified Transaction, acquisition, Investment, disposition, Restricted Payment or Junior Prepayment) (including amortization or write offs of debt issuance or deferred financing costs, premiums and prepayment penalties), in each case, whether or not successful;"
+      },
+      {
+        "category": "Swap Contract Mark-to-Market Losses",
+        "description": "Any losses resulting from mark to market accounting of Swap Contracts or other derivative instruments",
+        "cap_or_limit": "None",
+        "citation": "any losses resulting from mark to market accounting of Swap Contracts or other derivative instruments;"
+      },
+      {
+        "category": "Unrestricted Subsidiary Reimbursements",
+        "description": "Expenses actually reimbursed in cash to Borrower or a Restricted Subsidiary by an Unrestricted Subsidiary pursuant to a Subsidiary Cost Allocation Agreement",
+        "cap_or_limit": "None",
+        "citation": "expenses actually reimbursed in cash to Borrower or a Restricted Subsidiary by an Unrestricted Subsidiary pursuant to a Subsidiary Cost Allocation Agreement;"
+      },
+      {
+        "category": "Restricted Payments to Holdco",
+        "description": "Restricted Payments made by Borrower and the Restricted Subsidiaries to Holdco pursuant to Section 10.06(q) (net of Subsidiary Tax Sharing Payments)",
+        "cap_or_limit": "None",
+        "citation": "Restricted Payments made by Borrower and the Restricted Subsidiaries to Holdco pursuant to Section 10.06(q) (net of Subsidiary Tax Sharing Payments);"
+      },
+      {
+        "category": "Cost Savings and Operating Improvements",
+        "description": "Run rate cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies projected by Borrower to be realized, subject to multiple conditions",
+        "cap_or_limit": "Aggregate additions shall not exceed 25.0% of Consolidated EBITDA for such Test Period or be duplicative",
+        "citation": "the amount of \"run rate\" cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies projected by Borrower in good faith to be realized as a result of specified actions taken or with respect to which steps have been initiated (in the good faith determination of Borrower) during such Test Period (or with respect to Specified Transactions, are reasonably expected to be initiated within eighteen (18) months of the closing date of the Specified Transaction), including in connection with the Transactions or any Specified Transaction (calculated on a Pro Forma Basis as though such cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies had been realized during the entirety of such Test Period), net of the amount of actual benefits realized during such Test Period from such actions; provided that... the aggregate amount of additions made to Consolidated EBITDA for any Test Period pursuant to this clause (c) and Section 1.05(c) shall not (i) exceed 25.0% of Consolidated EBITDA for such Test Period (after giving effect to this clause (c) and Section 1.05(c)) or (ii) be duplicative of one another;"
+      },
+      {
+        "category": "Insurance Proceeds",
+        "description": "Amount of insurance proceeds received during or after such Test Period attributable to any property which has been closed or had operations curtailed",
+        "cap_or_limit": "Insurance proceeds plus Consolidated EBITDA attributable to such property shall not exceed Consolidated EBITDA attributable to such property during the most recently completed four fiscal quarter period when fully operational",
+        "citation": "to the extent not included in Consolidated Net Income or, if otherwise excluded from Consolidated EBITDA due to the operation of clause (b)(iii) above, the amount of insurance proceeds received during such Test Period or after such Test Period and on or prior to the date the calculation is made with respect to such Test Period, attributable to any property which has been closed or had operations curtailed for any period; provided that such amount of insurance proceeds shall only be included pursuant to this clause (d) to the extent that such amount of insurance proceeds plus Consolidated EBITDA attributable to such property for such Test Period (without giving effect to this clause (d)) does not exceed Consolidated EBITDA attributable to such property during the most recently completed four fiscal quarter period for which financial results are available that such property was fully operational"
+      },
+      {
+        "category": "Cash Receipts Netting Non-Cash Gains",
+        "description": "Cash receipts (or any netting arrangements resulting in reduced cash expenditures) not representing Consolidated EBITDA or Consolidated Net Income to the extent non-cash gains relating to such income were deducted in the calculation",
+        "cap_or_limit": "None",
+        "citation": "cash receipts (or any netting arrangements resulting in reduced cash expenditures) not representing Consolidated EBITDA or Consolidated Net Income in any Test Period to the extent non-cash gains relating to such income were deducted in the calculation of Conso"
+      }
+    ],
+    "exclusions_or_deductions": [
+      {
+        "description": "Non-cash items increasing such Consolidated Net Income, other than accrual of revenue in ordinary course of business, and other than items representing reversal of any accrual or cash reserve for anticipated cash charges for any prior Test Period",
+        "citation": "to the extent included in calculating such Consolidated Net Income, non-cash items increasing such Consolidated Net Income for such Test Period, other than the accrual of revenue in the ordinary course of business, and other than any items which represent the reversal of any accrual of, or cash reserve for, anticipated cash charges for any prior Test Period subsequent to the Closing Date which was not added back to Consolidated EBITDA when accrued;"
+      },
+      {
+        "description": "Gains resulting from mark to market accounting of Swap Contracts or other derivative instruments",
+        "citation": "to the extent included in calculating such Consolidated Net Income, the amount of any gains resulting from mark to market accounting of Swap Contracts or other derivative instruments;"
+      },
+      {
+        "description": "Unusual or non-recurring items of income or gain increasing Consolidated Net Income",
+        "citation": "to the extent included in calculating such Consolidated Net Income, any unusual or non-recurring items of income or gain to the extent increasing Consolidated Net Income for such Test Period;"
+      },
+      {
+        "description": "Distributions made by Borrower to RRR or Holdco during such period pursuant to Section 10.06(o)",
+        "citation": "distributions made by Borrower to RRR or Holdco during such period pursuant to Section 10.06(o);"
+      }
+    ],
+    "overall_addback_cap": "25.0% of Consolidated EBITDA for such Test Period (for cost savings and operating improvements addbacks under clause (c) and Section 1.05(c) combined)",
+    "overall_addback_cap_citation": "the aggregate amount of additions made to Consolidated EBITDA for any Test Period pursuant to this clause (c) and Section 1.05(c) shall not (i) exceed 25.0% of Consolidated EBITDA for such Test Period (after giving effect to this clause (c) and Section 1.05(c)) or (ii) be duplicative of one another;"
+  },
+  "leverage_ratio": {
+    "ratio_name": "Not explicitly defined in provided section",
+    "ratio_definition": "Not provided in section",
+    "ratio_definition_citation": "N/A",
+    "covenant_levels": [
+      {
+        "period": "applicable period for Section 10.08",
+        "maximum_ratio": "Not specified in provided section",
+        "citation": "Borrower may apply the amount of the Equity Issuance Proceeds thereof to increase Consolidated EBITDA with respect to the applicable fiscal quarter (such fiscal quarter, a \"Default Quarter\"); provided that such Equity Issuance Proceeds (i) are actually received by Borrower (including through capital contribution of such Equity Issuance Proceeds by Holdco or RRR to Borrower) from and after the first day of the Default Quarter and no later than the Cure Expiration Date, and (ii) do not exceed the aggregate amount necessary to cause Borrower to be in compliance with Section 10.08 for the applicable period"
+      }
+    ],
+    "step_downs": "None",
+    "acquisition_adjustment": "None",
+    "acquisition_adjustment_citation": "N/A"
+  },
+  "restricted_payments": {
+    "general_restriction": "Yes. Neither Borrower nor any of its Restricted Subsidiaries shall, directly or indirectly, declare or make any Restricted Payment at any time, except as specifically permitted by the enumerated exceptions in this section.",
+    "general_restriction_citation": "Neither Borrower nor any of its Restricted Subsidiaries shall, directly or indirectly, declare or make any Restricted Payment at any time, except, without duplication:",
+    "permitted_baskets": [
+      {
+        "basket_name": "Permitted pursuant to Section 2.09(b)(ii)",
+        "conditions": "To the extent permitted by Section 2.09(b)(ii)",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "Borrower or any Restricted Subsidiary may make Restricted Payments to the extent permitted pursuant to Section 2.09(b)(ii);"
+      },
+      {
+        "basket_name": "Payments to Borrower or Wholly Owned Subsidiaries",
+        "conditions": "Restricted Subsidiary may make payments to Borrower or any Wholly Owned Subsidiary of Borrower which is a Restricted Subsidiary",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "any Restricted Subsidiary of Borrower may declare and make Restricted Payments to Borrower or any Wholly Owned Subsidiary of Borrower which is a Restricted Subsidiary;"
+      },
+      {
+        "basket_name": "Proportionate Share Payments",
+        "conditions": "Restricted Subsidiary that is not Wholly Owned may make payments if Borrower receives proportionate share based on relative ownership",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "any Restricted Subsidiary of Borrower, if such Restricted Subsidiary is not a Wholly Owned Subsidiary, may declare and make Restricted Payments in respect of its Equity Interests to all holders of such Equity Interests generally so long as Borrower or its respective Restricted Subsidiary that owns such Equity Interest or interests in the Person making such Restricted Payments receives at least its proportionate share thereof (based upon its relative ownership of the subject Equity Interests and the terms thereof);"
+      },
+      {
+        "basket_name": "Disqualified Capital Stock",
+        "conditions": "Disqualified Capital Stock must be issued in compliance with terms of agreement",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "Borrower and its Restricted Subsidiaries may make Restricted Payments in respect of Disqualified Capital Stock issued in compliance with the terms hereof;"
+      },
+      {
+        "basket_name": "Management Stock Repurchases",
+        "conditions": "Repurchase of common stock or options from management, officers, directors, employees or consultants upon death, disability, retirement, termination of employment or pursuant to stock option plans, employment agreements, or severance agreements",
+        "dollar_cap": "greater of $20.0 million and 3.0% of Consolidated EBITDA",
+        "leverage_test": "None",
+        "citation": "Borrower may repurchase, or make Restricted Payments to allow any direct or indirect parent of Borrower to repurchase, common stock or common stock options from present or former members of management, officers, directors, employees or consultants (or heirs of, estates of or trusts formed by such Persons) of any Company upon the death, disability, retirement or termination of employment of such officer, director or employee or pursuant to the terms of any stock option plan, employment agreement, severance agreement or like agreement; provided, however, that the aggregate amount of payments under this clause (f) when combined with the aggregate amount of cash payments made by Borrower in respect of notes issued in reliance on Section 10.01(w) shall not exceed the greater of $20.0 million and 3.0% of Consolidated EBITDA calculated at the time of determination on a Pro Forma Basis for the Test Period most recently ended in any fiscal year of Borrower (with amounts permitted to be carried back to the immediately preceding fiscal year and with unused amounts in any fiscal year being carried over to succeeding fiscal years);"
+      },
+      {
+        "basket_name": "Equity Repurchase and Tax Withholding",
+        "conditions": "Repurchase of Equity Interests upon exercise of stock options, warrants or rights representing portion of exercise price; payments of withholding or similar taxes in connection with exercise of stock options or grant, vesting or delivery of Equity Interests",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "Borrower and its Restricted Subsidiaries may (i) repurchase Equity Interests to the extent deemed to occur upon exercise of stock options, warrants or rights in respect thereof to the extent such Equity Interests represent a portion of the exercise price of such options, warrants or rights in respect thereof and (ii) make payments in respect of withholding or similar taxes payable or expected to be payable by any present or former member of management, director, officer, employee, or consultant of Borrower or any of its Subsidiaries or family members, spouses or former spouses, heirs of, estates of or trusts formed by such Persons in connection with the exercise of stock options or grant, vesting or delivery of Equity Interests;"
+      },
+      {
+        "basket_name": "Fractional Shares and Dissenting Stockholders",
+        "conditions": "Cash in lieu of fractional shares upon exercise of options, warrants, rights or conversion/exchange of Equity Interests; payments to dissenting stockholders pursuant to applicable law",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "Borrower and its Restricted Subsidiaries may make Restricted Payments to allow the payment of cash in lieu of the issuance of fractional shares upon the exercise of options or, warrants or rights or upon the conversion or exchange of or into Equity Interests, or payments or distributions to dissenting stockholders pursuant to applicable law;"
+      },
+      {
+        "basket_name": "Initial Restricted Payment Base Amount and Project Reimbursement Amount",
+        "conditions": "Aggregate amount not to exceed sum of Initial Restricted Payment Base Amount and Project Reimbursement Amount",
+        "dollar_cap": "Initial Restricted Payment Base Amount plus Project Reimbursement Amount",
+        "leverage_test": "None",
+        "citation": "Borrower and its Restricted Subsidiaries may make Restricted Payments in an aggregate amount not to exceed the sum of (i) the Initial Restricted Payment Base Amount as of the date of such Restricted Payment and (ii) the Project Reimbursement Amount as of such date;"
+      },
+      {
+        "basket_name": "Available Amount Basket",
+        "conditions": "No Event of Default before or after; must be in compliance with Financial Maintenance Covenant on Pro Forma Basis as of most recent Calculation Date (except for payments made in reliance on clauses (e), (f) or (g) of Available Amount definition)",
+        "dollar_cap": "Available Amount at time of Restricted Payment",
+        "leverage_test": "Financial Maintenance Covenant compliance required",
+        "citation": "so long as (i) immediately before and after giving effect thereto no Event of Default has occurred and is continuing and (ii) except for Restricted Payments made in reliance on clauses (e), (f) or (g) of the definition of \"Available Amount\", immediately after giving effect thereto Borrower will be in compliance on a Pro Forma Basis with the Financial Maintenance Covenant as of the most recent Calculation Date, Borrower and its Restricted Subsidiaries may make Restricted Payments in an aggregate amount not to exceed the Available Amount determined at the time such Restricted Payment is made;"
+      },
+      {
+        "basket_name": "Leverage-Based Basket",
+        "conditions": "No Event of Default before or after; Consolidated Total Net Leverage Ratio will not exceed 4.25 to 1.00 on Pro Forma Basis as of most recent Calculation Date",
+        "dollar_cap": "None",
+        "leverage_test": "Consolidated Total Net Leverage Ratio shall not exceed 4.25 to 1.00",
+        "citation": "so long as (i) immediately before and after giving effect thereto no Event of Default has occurred and is continuing and (ii) immediately after giving effect thereto the Consolidated Total Net Leverage Ratio will not exceed 4.25 to 1.00 calculated on a Pro Forma Basis as of the most recent Calculation Date, Borrower and its Restricted Subsidiaries may make additional Restricted Payments;"
+      },
+      {
+        "basket_name": "Swap Contract Payments",
+        "conditions": "Payments to counterparties under Swap Contracts entered into in connection with issuance of convertible or exchangeable debt",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "to the extent constituting Restricted Payments, Borrower may make payments to counterparties under Swap Contracts entered into in connection with the issuance of convertible or exchangeable debt;"
+      },
+      {
+        "basket_name": "Excluded Contributions",
+        "conditions": "Amount equal to Excluded Contributions previously received that Borrower elects to apply under this clause",
+        "dollar_cap": "Amount of Excluded Contributions",
+        "leverage_test": "None",
+        "citation": "Borrower and its Restricted Subsidiaries may make Restricted Payments that are made in an amount equal to the amount of Excluded Contributions previously received and that Borrower elects to apply under this clause (m);"
+      },
+      {
+        "basket_name": "Gaming/Racing Authority Repurchase",
+        "conditions": "Repurchase or retirement of Equity Interests in event of Equity Holder Disqualification or to extent required by Gaming/Racing Authority to avoid suspension, revocation or denial of Gaming/Racing License; Borrower must have used commercially reasonable efforts to find suitable purchaser unless jeopardizes Gaming/Racing License",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "Borrower and its Restricted Subsidiaries may make payments of amounts necessary to repurchase or retire Equity Interests of Borrower, any parent of Borrower or any Subsidiary of Borrower in the event of an Equity Holder Disqualification of the holder thereof or to the extent required by any Gaming/Racing Authority in order to avoid the suspension, revocation or denial of a Gaming/Racing License by any Gaming/Racing Authority; provided that, in the case of any such repurchase or retirement of Equity Interests of Borrower, any parent thereof or any Subsidiary thereof, if such efforts do not jeopardize any Gaming/Racing License, Borrower, such parent or any such Subsidiary will have previously used commercially reasonable efforts to attempt to find a suitable purchaser for such Equity Interests and no suitable purchaser acceptable to the applicable Gaming/Racing Authority and Borrower or a parent thereof was willing to purchase such Equity Interests on terms acceptable to the holder thereof within a time period acceptable to such Gaming/Racing Authority;"
+      },
+      {
+        "basket_name": "Holdco and RRR Payments",
+        "conditions": "Proceeds used by Holdco or RRR to pay franchise taxes, fees, taxes and expenses to maintain existence, or to pay corporate overhead expenses",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "Borrower and its Restricted Subsidiaries may make Restricted Payments to Holdco or RRR: (i) the proceeds of which shall be used by Holdco or RRR to pay franchise taxes and other fees, taxes and expenses required to maintain its limited liability company or corporate existence; and (ii) the proceeds of which shall be used by Holdco or RRR to pay corporate overhead expenses;"
+      },
+      {
+        "basket_name": "Annual Restricted Payment Basket",
+        "conditions": "Unrestricted additional Restricted Payments per fiscal year",
+        "dollar_cap": "$120.0 million per fiscal year",
+        "leverage_test": "None",
+        "citation": "Borrower may make additional Restricted Payments in an amount not to exceed $120.0 million per fiscal year;"
+      },
+      {
+        "basket_name": "Partnership Tax Distributions",
+        "conditions": "Only if Borrower or Restricted Subsidiary taxed as partnership or disregarded entity for U.S. federal, state or local income tax purposes or member of combined, consolidated or unitary group; amounts sufficient to enable Holdco to pay taxes or Tax Distributions to members; Restricted Payments for state and federal income tax liabilities of Unrestricted Subsidiaries permitted only to extent of payments received from or credits used by Unrestricted Subsidiaries per Subsidiary Tax Sharing Agreements; successor entities may also receive payments for U.S. federal income tax liabilities",
+        "dollar_cap": "Amount sufficient to pay taxes and Tax Distributions",
+        "leverage_test": "None",
+        "citation": "so long as Borrower or any Restricted Subsidiary is taxed as a partnership or disregarded entity for U.S. federal, state or local income tax purposes or is a member of a combined, consolidated or unitary group for U.S. federal income tax purposes (without duplication), Borrower may make Restricted Payments to Holdco, or any successor or assignee thereof, in amounts sufficient to enable Holdco to pay taxes or make Tax Distributions (as defined in the Holdco LLC Agreement as in effect on the Closing Date or as may be amended, modified or replaced from time to time so long as such amendment, modification or replacement is not materially adverse to the Lenders) to its members pursuant to Section 5.4 of the Holdco LLC Agreement (as in effect on the Closing Date or as may be amended, modified or replaced from time to time so long as such amendment, modification or replacement is not materially adverse to the Lenders); provided that Restricted Payments under this clause (q) in respect of Holdco's members' actual state and United States federal income tax liabilities in respect of income earned by Unrestricted Subsidiaries during any period shall be permitted solely to the extent of payments received from (or credits used by) Unrestricted Subsidiaries pursuant to the Subsidiary Tax Sharing Agreements with respect to such period; provided, further, that if any successor or assignee of Station Holdco LLC becomes \"Holdco\" or any successor or assignee of Red Rock Resorts, Inc. becomes \"RRR\" for purposes of this Agreement and the other Credit Documents, then Borrower may make Restricted Payments to such successor(s) or assignee(s) in an amount sufficient to enable Borrower's direct or indirect equity holders to pay their U.S. federal income tax liabilities arising from their investment in Borrower (or, in the event Borrower is a member of a combined, consolidated or unitary group for U.S. federal income tax purposes, in an amount equal to the amount that Borrower and its Subsidiaries would be required to pay if such entities were a standalone consolidated tax group with Borrower as the parent entity)."
+      }
+    ],
+    "builder_basket": "Yes. The 'Available Amount' basket functions as a cumulative credit/builder basket. Under clause (j), Borrower and its Restricted Subsidiaries may make Restricted Payments in an aggregate amount not to exceed the Available Amount determined at the time such Restricted Payment is made, provided no Event of Default has occurred and is continuing, and except for certain carve-outs, Borrower will be in compliance with the Financial Maintenance Covenant on a Pro Forma Basis as of the most recent Calculation Date.",
+    "builder_basket_citation": "so long as (i) immediately before and after giving effect thereto no Event of Default has occurred and is continuing and (ii) except for Restricted Payments made in reliance on clauses (e), (f) or (g) of the definition of \"Available Amount\", immediately after giving effect thereto Borrower will be in compliance on a Pro Forma Basis with the Financial Maintenance Covenant as of the most recent Calculation Date, Borrower and its Restricted Subsidiaries may make Restricted Payments in an aggregate amount not to exceed the Available Amount determined at the time such Restricted Payment is made;"
+  },
+  "interest_coverage": {
+    "ratio_name": "Interest Coverage Ratio",
+    "ratio_definition": "Consolidated EBITDA / Consolidated Cash Interest Expense",
+    "ratio_definition_citation": "\" Interest Coverage Ratio \" shall mean, with respect to any Test Period, the ratio of (x) Consolidated EBITDA for such Test Period to (y) Consolidated Cash Interest Expense for such Test Period.",
+    "covenant_levels": []
+  }
+}

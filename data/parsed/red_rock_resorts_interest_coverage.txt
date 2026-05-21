@@ -1,0 +1,25 @@
+ior to such date. 
+
+" Intellectual Property " shall have the meaning set forth in Section 8.19. 
+
+" Interest Coverage Ratio " shall mean, with respect to any Test Period, the ratio of (x) Consolidated EBITDA for such Test Period to (y) Consolidated Cash Interest Expense for such Test Period. 
+
+" Interest Period " shall mean, as to each SOFR Loan, the period commencing on the date such SOFR Loan is disbursed or converted to or continued as a SOFR Loan and ending on the date one, three or six months thereafter, as selected by Borrower in its Notice of Borrowing or Notice of Continuation/Conversion, as applicable, or such other period that is twelve months or less requested by Borrower and consented to by all the applicable Lenders and Administrative Agent (in the case of each requested Interest Period, subject to availability);  provided  that: 
+
+(i) any Interest Period that would otherwise end on a day that is not a Business Day shall be extended to the next succeeding Business Day unless, in the case of a SOFR Loan, such Business Day falls in another calendar month, in which case such Interest Period shall end on the next preceding Business Day; 
+
+(ii) any Interest Period pertaining to a SOFR Loan that begins on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the calendar month at the end of such Interest Period) shall end on the last Business Day of the calendar month at the end of such Interest Period; and 
+
+-46- 
+
+(iii) no Interest Period for a Class shall extend beyond the maturity date for such Class. 
+
+" Interest Rate Protection Agreement " shall mean, for any Person, an interest rate swap, cap or collar agreement or similar arrangement between such Person and one or more financial institutions providing for the transfer or mitigation of interest risks either generally or under specific contingencies. 
+
+" Investments " of any Person shall mean (a) any loan or advance of funds or credit by such Person to any other Person, (b) any Contingent Obligation by such Person in respect of the Indebtedness of any other Person (including, without limitation, any Support Agreement) ( provided  that upon termination of any such Contingent Obligation, no Investment in respect thereof shall be deemed outstanding, except as contemplated in clause (e) below), (c) any purchase or other acquisition of any Equity Interests or Indebtedness or other securities of any other Person, (d) any capital contribution by such Person to any other Person, (e) without duplication of any amounts included under clause (b) above, any payment under any Contingent Obligation by such Person in respect of the Indebtedness of any other Person (including, without limitation, any payment pursuant to any Support Agreement) or (f) the purchase or other acquisition (in one transaction or a series of transaction) of all or substantially all of the property and assets or business of another Person or assets constituting a business unit, line of business or division of such Person. For purposes of the definition of "Unrestricted Subsidiary" and Section 10.04, "Investment" shall include the portion (proportionate to Borrower's Equity Interest in such Subsidiary) of the fair market value of the net assets of any Subsidiary of Borrower at the time of Designation of such Subsidiary as an Unrestricted Subsidiary pursuant to Section 9.12 (excluding any Subsidiaries designated as Unrestricted Subsidiaries on the Closing Date and set forth on  Schedule 8.12(c) );  provided ,  however , that upon the Revocation of a Subsidiary that was Designated as an Unrestricted Subsidiary after the Closing Date, the amount of outstanding Investments in Unrestricted Subsidiaries shall be deemed to be reduced by the lesser of (x) the fair market value of such Subsidiary at the time of such Revocation and (y) the amount of Investments in such Subsidiary deemed to have been made (directly or indirectly) at the time of, and made (directly or indirectly) since, the Designation of such Subsidiary as an Unrestricted Subsidiary, to the extent that such amount constitutes an outstanding Investment under Section 10.04(i), 10.04(k), 10.04(l), 10.04(m), 10.04(q), 10.04(s), 10.04(t) or 10.04(u) at the time of such Revocation. It is understood and agreed that the receipt of interest paid in kind with respect to any outstanding Investment shall not constitute an additional Investment with respect thereto. 
+
+" ISDA CDS Definitions " shall have the meaning set forth in Section 13.04(i). 
+
+" ISP " shall mean, with respect to any Letter of Credit, the "International Standby Practices 1998" published by the Institute of International Banking Law & Practice, Inc. (or such later version thereof as may be in effect at the time of issuance). 
+
+" Joinder Agreements " shall mean each Joinder Agreement substantially in the form of  Exhibit M  or such other form as is reasonably acceptable to Administrative Agent and each Joinder Agreement 

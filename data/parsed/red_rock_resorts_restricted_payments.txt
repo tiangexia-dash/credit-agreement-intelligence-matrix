@@ -1,0 +1,71 @@
+ are appropriate or reasonably requested by Borrower in connection with such termination. 
+
+SECTION 10.06.
+
+Restricted Payments . Neither Borrower nor any of its Restricted Subsidiaries shall, directly or indirectly, declare or make any Restricted Payment at any time, except, without duplication: 
+
+(a) Borrower or any Restricted Subsidiary may make Restricted Payments to the extent permitted pursuant to Section 2.09(b)(ii); 
+
+(b) any Restricted Subsidiary of Borrower may declare and make Restricted Payments to Borrower or any Wholly Owned Subsidiary of Borrower which is a Restricted Subsidiary; 
+
+(c) any Restricted Subsidiary of Borrower, if such Restricted Subsidiary is not a Wholly Owned Subsidiary, may declare and make Restricted Payments in respect of its Equity Interests to all holders of such Equity Interests generally so long as Borrower or its respective Restricted Subsidiary that owns such Equity Interest or interests in the Person making such Restricted Payments receives at least its proportionate share thereof (based upon its relative ownership of the subject Equity Interests and the terms thereof); 
+
+(d) Borrower and its Restricted Subsidiaries may engage in transactions to the extent permitted by Section 10.04 and Section 10.05;
+
+-184- 
+
+(e) Borrower and its Restricted Subsidiaries may make Restricted Payments in respect of Disqualified Capital Stock issued in compliance with the terms hereof; 
+
+(f) Borrower may repurchase, or make Restricted Payments to allow any direct or indirect parent of Borrower to repurchase, common stock or common stock options from present or former members of management, officers, directors, employees or consultants (or heirs of, estates of or trusts formed by such Persons) of any Company upon the death, disability, retirement or termination of employment of such officer, director or employee or pursuant to the terms of any stock option plan, employment agreement, severance agreement or like agreement;  provided ,
+
+however , that the aggregate amount of payments under this clause (f) when combined with the aggregate amount of cash payments made by Borrower in respect of notes issued in reliance on Section 10.01(w) shall not exceed the greater of $20.0 million and 3.0% of Consolidated EBITDA calculated at the time of determination on a Pro Forma Basis for the Test Period most recently ended in any fiscal year of Borrower (with amounts permitted to be carried back to the immediately preceding fiscal year and with unused amounts in any fiscal year being carried over to succeeding fiscal years); 
+
+(g) Borrower and its Restricted Subsidiaries may (i) repurchase Equity Interests to the extent deemed to occur upon exercise of stock options, warrants or rights in respect thereof to the extent such Equity Interests represent a portion of the exercise price of such options, warrants or rights in respect thereof and (ii) make payments in respect of withholding or similar taxes payable or expected to be payable by any present or former member of management, director, officer, employee, or consultant of Borrower or any of its Subsidiaries or family members, spouses or former spouses, heirs of, estates of or trusts formed by such Persons in connection with the exercise of stock options or grant, vesting or delivery of Equity Interests; 
+
+(h) Borrower and its Restricted Subsidiaries may make Restricted Payments to allow the payment of cash in lieu of the issuance of fractional shares upon the exercise of options or, warrants or rights or upon the conversion or exchange of or into Equity Interests, or payments or distributions to dissenting stockholders pursuant to applicable law; 
+
+(i) Borrower and its Restricted Subsidiaries may make Restricted Payments in an aggregate amount not to exceed the sum of (i) the Initial Restricted Payment Base Amount as of the date of such Restricted Payment and (ii) the Project Reimbursement Amount as of such date; 
+
+(j) so long as (i) immediately before and after giving effect thereto no Event of Default has occurred and is continuing and (ii) except for Restricted Payments made in reliance on clauses (e), (f) or (g) of the definition of "Available Amount", immediately after giving effect thereto Borrower will be in compliance on a Pro Forma Basis with the Financial Maintenance Covenant as of the most recent Calculation Date, Borrower and its Restricted Subsidiaries may make Restricted Payments in an aggregate amount not to exceed the Available Amount determined at the time such Restricted Payment is made; 
+
+(k) so long as (i) immediately before and after giving effect thereto no Event of Default has occurred and is continuing and (ii) immediately after giving effect thereto the Consolidated Total Net Leverage Ratio will not exceed 4.25 to 1.00 calculated on a Pro Forma Basis as of the most recent Calculation Date, Borrower and its Restricted Subsidiaries may make additional Restricted Payments; 
+
+(l) to the extent constituting Restricted Payments, Borrower may make payments to counterparties under Swap Contracts entered into in connection with the issuance of convertible or exchangeable debt; 
+
+-185- 
+
+(m) Borrower and its Restricted Subsidiaries may make Restricted Payments that are made in an amount equal to the amount of Excluded Contributions previously received and that Borrower elects to apply under this clause (m); 
+
+(n) Borrower and its Restricted Subsidiaries may make payments of amounts necessary to repurchase or retire Equity Interests of Borrower, any parent of Borrower or any Subsidiary of Borrower in the event of an Equity Holder Disqualification of the holder thereof or to the extent required by any Gaming/Racing Authority in order to avoid the suspension, revocation or denial of a Gaming/Racing License by any Gaming/Racing Authority;  provided  that, in the case of any such repurchase or retirement of Equity Interests of Borrower, any parent thereof or any Subsidiary thereof, if such efforts do not jeopardize any Gaming/Racing License, Borrower, such parent or any such Subsidiary will have previously used commercially reasonable efforts to attempt to find a suitable purchaser for such Equity Interests and no suitable purchaser acceptable to the applicable Gaming/Racing Authority and Borrower or a parent thereof was willing to purchase such Equity Interests on terms acceptable to the holder thereof within a time period acceptable to such Gaming/Racing Authority; 
+
+(o) Borrower and its Restricted Subsidiaries may make Restricted Payments to Holdco or RRR: 
+
+(i) the proceeds of which shall be used by Holdco or RRR to pay franchise taxes and other fees, taxes and expenses required to maintain its limited liability company or corporate existence; and 
+
+(ii) the proceeds of which shall be used by Holdco or RRR to pay corporate overhead expenses; 
+
+(p) Borrower may make additional Restricted Payments in an amount not to exceed $120.0 million per fiscal year; and 
+
+(q) so long as Borrower or any Restricted Subsidiary is taxed as a partnership or disregarded entity for U.S. federal, state or local income tax purposes or is a member of a combined, consolidated or unitary group for U.S. federal income tax purposes (without duplication), Borrower may make Restricted Payments to Holdco, or any successor or assignee thereof, in amounts sufficient to enable Holdco to pay taxes or make Tax Distributions (as defined in the Holdco LLC Agreement as in effect on the Closing Date or as may be amended, modified or replaced from time to time so long as such amendment, modification or replacement is not materially adverse to the Lenders) to its members pursuant to Section 5.4 of the Holdco LLC Agreement (as in effect on the Closing Date or as may be amended, modified or replaced from time to time so long as such amendment, modification or replacement is not materially adverse to the Lenders);  provided  that Restricted Payments under this clause (q) in respect of Holdco's members' actual state and United States federal income tax liabilities in respect of income earned by Unrestricted Subsidiaries during any period shall be permitted solely to the extent of payments received from (or credits used by) Unrestricted Subsidiaries pursuant to the Subsidiary Tax Sharing Agreements with respect to such period;  provided ,  further , that if any successor or assignee of Station Holdco LLC becomes "Holdco" or any successor or assignee of Red Rock Resorts, Inc. becomes "RRR" for purposes of this Agreement and the other Credit Documents, then Borrower may make Restricted Payments to such successor(s) or assignee(s) in an amount sufficient to enable Borrower's direct or indirect equity holders to pay their U.S. federal income tax liabilities arising from their investment in Borrower (or, in the event Borrower is a member of a combined, consolidated or unitary group for U.S. federal income tax purposes, in an amount equal to the amount that Borrower and its Subsidiaries would be required to pay if such entities were a standalone consolidated tax group with Borrower as the parent entity). 
+
+-186- 
+
+SECTION 10.07.
+
+Transactions with Affiliates . Neither Borrower nor any of its Restricted Subsidiaries shall enter into any transaction involving aggregate consideration in excess of the greater of $15.0 million and 2.00% of Consolidated EBITDA calculated at the time of determination on a Pro Forma Basis for the Test Period most recently ended, including, without limitation, any purchase, sale, lease or exchange of Property, the rendering of any service or the payment of any management, advisory or similar fees, with any Affiliate (other than Borrower or any Restricted Subsidiary);  provided ,  however , that notwithstanding the foregoing, Borrower and its Restricted Subsidiaries: 
+
+(a) may enter into indemnification and employment and severance agreements and arrangements with directors, officers and employees (including employee compensation, benefit plans or arrangements and health, disability or similar insurance plans) and may pay customary fees and reasonable out of pocket costs to, and indemnities provided on behalf of, directors, officers, board managers and employees of Holdco, RRR, Borrower and its Subsidiaries in the ordinary course of business to the extent attributable to the ownership or operation of Borrower and its Subsidiaries; 
+
+(b) may enter into the Transactions and the transactions described in Borrower's SEC filings prior to the Closing Date or listed on
+
+Schedule  10.07  hereto as in effect on the Closing Date or any amendment, restatement, replacement or other modification thereof so long as such amendment, restatement, replacement or other modification is not adverse to the Lenders in any material respect; 
+
+(c) may make Investments and Restricted Payments permitted hereunder; 
+
+(d) may enter into the transactions contemplated by each applicable Transfer Agreement; 
+
+(e) may enter into customary expense sharing and tax sharing arrangements entered into between Borrower, Restricted Subsidiaries, Joint Ventures and Unrestricted Subsidiaries in the ordinary course of business pursuant to which such Unrestricted Subsidiaries and Joint Ventures shall reimburse Borrower or the applicable Restricted Subsidiaries for certain shared expenses and taxes;
+
+(f) may enter into transactions upon fair and reasonable terms no less favorable to Borrower or such Restricted Subsidiary, as the case may be, than it would obtain in a comparable arm's length transaction with a Person that is not an Affiliate or in the event that there are no comparable transactions involving Persons who are not Affiliates of Borrower or such Restricted Subsidiary to apply for comparative purposes, is otherwise on terms that, taken as whole, Borrower has determined in good faith to be fair to Borrower or the relevant Restricted Subsidiary; 
+
+(g) may enter into any transactions between or among Borrower and its Subsidiaries (for the avoidance of doubt, incl

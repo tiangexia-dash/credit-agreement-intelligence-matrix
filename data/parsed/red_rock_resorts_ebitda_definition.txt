@@ -1,0 +1,87 @@
+ensation charges arising from the grant of any stock, stock options or other equity based awards. 
+
+" Consolidated EBITDA " shall mean, for any Test Period, the sum (without duplication) of Consolidated Net Income for such Test Period;  plus
+
+(a) in each case to the extent deducted in calculating such Consolidated Net Income: 
+
+(i)
+
+provisions for taxes based on income or profits or capital gains, plus withholding taxes, franchise or similar taxes, of Borrower and its Restricted Subsidiaries for such Test Period; 
+
+(ii)
+
+Consolidated Interest Expense (net of interest income (other than interest income in respect of notes receivable and similar items)) of Borrower and its Restricted Subsidiaries for such Test Period, whether paid or accrued and whether or not capitalized; 
+
+-15- 
+
+(iii)
+
+any cost, charge, fee or expense (including discounts and commissions, premiums and penalties, original issue discount, debt issuance costs and deferred financing costs and fees and charges incurred in respect of letters of credit or bankers acceptance financings) (or any amortization or  write-off  of any of the foregoing) associated with any issuance (or proposed issuance) of debt, or equity or any refinancing transaction (or proposed refinancing transaction) or any amendment or other modification of any debt instrument; 
+
+(iv)
+
+depreciation, amortization (including amortization of goodwill and other intangibles) and any other  non-cash  charges or expenses, including any  write-off  or write-down, reducing Consolidated Net Income (excluding (x) any amortization of a prepaid cash expense that was paid in a prior Test Period and (y) any  non-cash  charges and expenses that result in an accrual of a reserve for cash charges or expenses in any future Test Period that Borrower elects not to add back in the current Test Period (it being understood that reserves may be charged in the current Test Period or when paid, as reasonably determined by Borrower)) of Borrower and its Restricted Subsidiaries for such Test Period;  provided  that if any such  non-cash  charges or expenses represent an accrual of a reserve for potential cash items in any future Test Period, the cash payment in respect thereof in such future Test Period shall be subtracted from Consolidated EBITDA to the extent Borrower elected to previously add back such amounts to Consolidated EBITDA; 
+
+(v)
+
+any  Pre-Opening  Expenses; 
+
+(vi)
+
+the amount of any restructuring charges or reserve (including those relating to severance, relocation costs and
+
+one-time  compensation charges), costs incurred in connection with any  non-recurring  strategic initiatives or new initiatives, other business optimization expenses (including incentive costs and expenses relating to business optimization programs and signing, retention and completion bonuses) and any unusual or  non-recurring  charges or items of loss or expense (including, without limitation, losses on asset sales (other than asset sales in the ordinary course of business)); 
+
+(vii)
+
+any charges, fees and expenses (or any amortization thereof) (including, without limitation, all legal, accounting, advisory or other transaction-related fees, charges, costs and expenses and any bonuses or success fee payments related to the Transactions) related to the Transactions, any Specified Transactions, any Permitted Acquisition, Investment (including any other Acquisition), disposition, Restricted Payment or Junior Prepayment (or any such proposed Specified Transaction, acquisition, Investment, disposition, Restricted Payment or Junior Prepayment) (including amortization or write offs of debt issuance or deferred financing costs, premiums and prepayment penalties), in each case, whether or not successful; 
+
+(viii)
+
+any losses resulting from mark to market accounting of Swap Contracts or other derivative instruments;
+
+(ix)
+
+expenses actually reimbursed in cash to Borrower or a Restricted Subsidiary by an Unrestricted Subsidiary pursuant to a Subsidiary Cost Allocation Agreement; and 
+
+-16- 
+
+(x)
+
+Restricted Payments made by Borrower and the Restricted Subsidiaries to Holdco pursuant to Section 10.06(q) (net of Subsidiary Tax Sharing Payments);  minus
+
+(b) each of the following:
+
+(i)
+
+to the extent included in calculating such Consolidated Net Income,
+
+non-cash  items increasing such Consolidated Net Income for such Test Period, other than the accrual of revenue in the ordinary course of business, and other than any items which represent the reversal of any accrual of, or cash reserve for, anticipated cash charges for any prior Test Period subsequent to the Closing Date which was not added back to Consolidated EBITDA when accrued; 
+
+(ii)
+
+to the extent included in calculating such Consolidated Net Income, the amount of any gains resulting from mark to market accounting of Swap Contracts or other derivative instruments; 
+
+(iii)
+
+to the extent included in calculating such Consolidated Net Income, any unusual or  non-recurring  items of income or gain to the extent increasing Consolidated Net Income for such Test Period; and 
+
+(iv)
+
+distributions made by Borrower to RRR or Holdco during such period pursuant to Section 10.06(o);
+
+plus
+
+(c) the amount of "run rate" cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies projected by Borrower in good faith to be realized as a result of specified actions taken or with respect to which steps have been initiated (in the good faith determination of Borrower) during such Test Period (or with respect to Specified Transactions, are reasonably expected to be initiated within eighteen (18) months of the closing date of the Specified Transaction), including in connection with the Transactions or any Specified Transaction (calculated on a Pro Forma Basis as though such cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies had been realized during the entirety of such Test Period), net of the amount of actual benefits realized during such Test Period from such actions;  provided  that (i) a duly completed Officer's Certificate of Borrower shall be delivered to Administrative Agent together with the applicable Section 9.04 Financials, providing reasonable detail with respect to such cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies and certifying that such cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies are reasonably expected to be realized within eighteen (18) months of the taking of such specified actions (or, in the case of a Specified Transaction, within eighteen (18) months of the closing date of such Specified Transaction) and are reasonably identifiable and factually supportable in the good faith judgment of Borrower, (ii) such actions are to be taken within eighteen (18) months after the consummation of such Specified Transaction, restructuring or implementation of an initiative that is expected to result in such cost savings, expense reductions, other operating improvements or synergies, (iii) no cost savings, operating expense reductions, restructurings, cost saving initiatives, other operating improvements and synergies shall be added pursuant to this clause (c) to the extent duplicative of any expenses or charges otherwise added to Consolidated EBITDA, whether through a pro forma adjustment or otherwise, for such Test Period, and (iv) projected amounts (and not yet realized) may no longer be added in calculating Consolidated EBITDA pursuant to this clause (c) to the extent more than eighteen (18) months have elapsed after the specified action taken (or in the case of a Specified Transaction, more than eighteen (18) months have elapsed after the date of such Specified Transaction) in order to realize such projected cost savings, operating expense reductions, 
+
+-17- 
+
+restructurings, cost saving initiatives, other operating improvements and synergies;  provided , that the aggregate amount of additions made to Consolidated EBITDA for any Test Period pursuant to this clause (c) and Section 1.05(c) shall not (i) exceed 25.0% of Consolidated EBITDA for such Test Period (after giving effect to this clause (c) and Section 1.05(c)) or (ii) be duplicative of one another;
+
+plus
+
+(d) to the extent not included in Consolidated Net Income or, if otherwise excluded from Consolidated EBITDA due to the operation of clause (b)(iii) above, the amount of insurance proceeds received during such Test Period or after such Test Period and on or prior to the date the calculation is made with respect to such Test Period, attributable to any property which has been closed or had operations curtailed for any period;  provided  that such amount of insurance proceeds shall only be included pursuant to this clause (d) to the extent that such amount of insurance proceeds
+
+plus  Consolidated EBITDA attributable to such property for such Test Period (without giving effect to this clause (d)) does not exceed Consolidated EBITDA attributable to such property during the most recently completed four fiscal quarter period for which financial results are available that such property was fully operational (or if such property has not been fully operational for four consecutive fiscal quarters for which financial results are available prior to such closure or curtailment, the Consolidated EBITDA attributable to such property during the Test Period prior to such closure or curtailment (for which financial results are available) annualized over four fiscal quarters);  plus
+
+(e) cash receipts (or any netting arrangements resulting in reduced cash expenditures) not representing Consolidated EBITDA or Consolidated Net Income in any Test Period to the extent  non-cash  gains relating to such income were deducted in the calculation of Conso

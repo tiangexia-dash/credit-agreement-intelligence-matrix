@@ -1,0 +1,61 @@
+
+
+interest-bearing  liability or investment of the Borrower or any Restricted Subsidiary. 
+
+SECTION 6.08.  Restricted Payments; Certain Payments of Indebtedness . 
+
+(a) The Borrower will not, and will not permit any Restricted Subsidiary to, declare or make, or agree to pay or make, directly or indirectly, any Restricted Payment, or incur any obligation (contingent or otherwise) to do so, except that: 
+
+(i) the Borrower may declare and pay dividends with respect to its Equity Interests payable solely in additional Equity Interests permitted hereunder; 
+
+(ii) any Restricted Subsidiary may declare and pay dividends or make other distributions with respect to its capital stock, partnership or membership interests or other similar Equity Interests, or make other Restricted Payments in respect of its Equity Interests, in each case ratably to the holders of such Equity Interests or its Equity Interests of the relevant class, as the case may be; 
+
+(iii) the Borrower may purchase or otherwise acquire Equity Interests upon the exercise of stock options if such Equity Interests are transferred in satisfaction of a portion of the exercise price of such options; 
+
+(iv) the Borrower may make cash payments in lieu of the issuance of fractional shares representing insignificant interests in the Borrower in connection with the exercise or conversion, as applicable, of warrants, options, Convertible Notes or other securities convertible into or exchangeable for Equity Interests in the Borrower; 
+
+(v) the Borrower may make Restricted Payments, not exceeding $10,000,000 in the aggregate during any fiscal year (with any unused amount of such base amount from any fiscal year available for use in the next succeeding fiscal year following the use of the base amount permitted by this clause (v) in such succeeding fiscal year), pursuant to and in accordance with stock option plans or other benefit plans or agreements approved by the Borrower's board of directors for directors, officers or employees of the Borrower and the Subsidiaries; 
+
+(vi) the Borrower may effect Share Repurchases during any fiscal year in an aggregate amount not to exceed the greater of (x) $75,000,000 and (y) 37.50% of Consolidated EBITDA for the prior fiscal year (with carryover for one year of up to 50.00% of unused amounts); 
+
+132 
+
+(vii) the Borrower may make additional cash Restricted Payments in an aggregate cumulative amount of $75,000,000; 
+
+(viii) the Borrower may make additional cash Restricted Payments, so long as at the time each such Restricted Payment is made no Default shall have occurred and be continuing or would result therefrom, (x) in an amount not in excess of (and which shall utilize) the Available Amount at the time such Restricted Payments are made;  provided  that, the Borrower is at such time in Pro Forma Compliance with the covenant set forth in Section 6.12 after giving effect to such Restricted Payments, and (y) in an unlimited amount if the Total Net Leverage Ratio at the time such Restricted Payments are made, calculated on a Pro Forma Basis giving effect to such Restricted Payments, is equal to or less than 3.50 to 1.00; 
+
+(ix) during the period commencing on the 2024 Restatement Effective Date and ending on the Revolving Maturity Date, the Borrower may repurchase up to $300,000,000 in aggregate amount of outstanding shares of its common stock (including by way of tender offers, open market purchases, derivatives or other structured stock buyback transactions) pursuant to an accelerated share repurchase program or otherwise; and 
+
+(x) the Borrower may repurchase Equity Interests pursuant to the terms of or make other payments in respect of a call spread, capped call or similar arrangement entered into in connection with the issuance of Convertible Notes. 
+
+(b) None of the Borrower or any Restricted Subsidiary will make or agree to prepay or make, directly or indirectly, any prepayment, redemption, purchase, defeasance or otherwise satisfy prior to the scheduled maturity thereof in any manner any Junior Indebtedness, including any sinking fund or similar deposit, on account of the purchase, redemption, retirement, acquisition, defeasance, cancellation or termination of any Junior Indebtedness, or make any payment in violation of any subordination terms of any Junior Indebtedness; except: 
+
+(i) regularly scheduled interest and principal payments and fees as and when due in respect of any Junior Indebtedness, and any payments or prepayments in respect of Junior Indebtedness owed by any Loan Party to the Borrower or any Restricted Subsidiary, in each case other than payments in respect of Junior Indebtedness prohibited by the subordination provisions thereof;
+
+(ii) refinancings of Junior Indebtedness to the extent permitted under Section 6.01; 
+
+(iii) the conversion of any Junior Indebtedness to Equity Interests (other than Disqualified Equity Interests) of the Borrower;
+
+(iv) payments of or in respect of Junior Indebtedness made solely with Equity Interests in the Borrower (other than Disqualified Equity Interests); 
+
+(v) the prepayment, redemption, purchase, defeasance or other satisfaction of Junior Indebtedness incurred or assumed pursuant to Section 6.01(vi), so long as at the time each such payment is made no Default shall have occurred and be continuing or would result therefrom; 
+
+133 
+
+(vi) payment of interest in the form of payments in kind, accretion or similar payments; 
+
+(vii) so long as at the time each such payment is made no Default shall have occurred and be continuing or would result therefrom, the prepayment, redemption, purchase, defeasance or other satisfaction of Junior Indebtedness in an aggregate cumulative amount not to exceed the greater of (x) $50,000,000 and (y) 1.75% of Consolidated Total Assets as of the last day of the fiscal quarter of the Borrower most recently ended for which financial statements shall have been delivered pursuant to Section 5.01(a) or 5.01(b) at the time such payment is made; 
+
+(viii) the Borrower and the Subsidiaries may make additional cash payments of or in respect of Junior Indebtedness (unless such payments would be prohibited by the subordination provisions thereof), so long as at the time each such payment is made no Default shall have occurred and be continuing or would result therefrom, (x) in an amount not in excess of (and which shall utilize) the Available Amount at the time such payments are made,  provided  that, the Borrower is at such time in Pro Forma Compliance with the covenant set forth in Section 6.12 after giving effect to such payments, and (y) in an unlimited amount if the Total Net Leverage Ratio at the time such payments are made, calculated on a Pro Forma Basis giving effect to such payments, is equal to or less than 3.50 to 1.00; and 
+
+(ix) the Borrower or any Restricted Subsidiary may make other payments of Junior Indebtedness as a result of a "change of control" or Disposition so long as, in each case, any rights of the holders thereof upon such "change of control" or Disposition shall be subject to the prior repayment in full of the outstanding Loans and all other outstanding Obligations (including accrued interest, fees and other accrued Obligations) and the termination of the Commitments and the expiration, cancellation, termination or cash collateralization of any Letters of Credit in accordance with the terms of this Agreement. 
+
+(c) For purposes of determining compliance with this Section 6.08, in the event that any Restricted Payment or any prepayment, redemption, purchase or defeasance of any Junior Indebtedness (or any portion thereof) meets the criteria of one or more of the categories described in this Section 6.08, the Borrower may, in its sole discretion, classify or reclassify, or later divide, classify or reclassify, such Restricted Payment or any such prepayment, redemption, purchase or defeasance of any Junior Indebtedness (or any portion thereof) in any manner that complies with this covenant and will only be required to include the amount and type of such Restricted Payment or any such prepayment, redemption, purchase or defeasance of any Junior Indebtedness (or portion thereof) in one of the clauses of this Section 6.08, and such Indebtedness will be treated as being incurred or existing pursuant to only one of such clauses. 
+
+134 
+
+SECTION 6.09.  Transactions with Affiliates . The Borrower will not, and will not permit any Restricted Subsidiary to, sell, lease, license or otherwise transfer any assets to, or purchase, lease, license or otherwise acquire any assets from, or otherwise engage in any other transactions with, any of its Affiliates, except (a) transactions that are at prices and on terms and conditions not less favorable to the Borrower or such Restricted Subsidiary than those that could be obtained on an  arm's-length  basis from unrelated third parties, (b) transactions between or among the Loan Parties not involving any other Affiliate, (c) any Restricted Payment permitted under Section 6.08 or Investment permitted under Section 6.04, (d) issuances by the Borrower of Equity Interests (other than Disqualified Equity Interests), (e) compensation, expense reimbursement and indemnification of, and other employment arrangements with, directors, officers and employees of the Borrower or any Restricted Subsidiary entered in the ordinary course of business, (f) payroll, travel and similar advances to directors and employees of the Borrower or any Restricted Subsidiary on customary terms and made in the ordinary course of business, (g) loans or advances to directors and employees of the Borrower or any Restricted Subsidiary on customary terms and made in the ordinary course of business, (h) transactions between or among
+
+non-Loan  Parties not involving any other Affiliate and (i) transactions with wholly owned Subsidiaries or joint ventures for the purchase or sale of goods, products, parts, equipment and services entered into in the ordinary course of business. 
+
+SECTION 6.10.  Restrictive Agreements (i) . None of the Borrower or any Restricted Subsidiary will, directly or indirectly, enter into, incur or permit to exist any agreement or other arrangement that restricts or imposes any condition upon (a) the ability of the Borrower or any Restricted Subsidiary to create, incur or permit to exist any Lien upon any of its assets to secure any Obligations or (b) the ability of any Restricted Subsidiary to pay dividends or other distributions with respect to its Equity Interests or to make or repay loans or advances to the Borrower or any Restricted Subsidiary or to Guarantee Indebtedness of the Borrower or any Restricted Subsidiary;  provided  that, (i) the foregoing shall not apply to (A) restrictions and conditions imposed by (1) Requirements of Law, (2) any Loan Document or (3) any Permitted Pari Passu Refinancing Debt, any Permitted Junior Lien Refinancing Debt, any Permitted Pari Passu Refinancing Debt, any Incremental Equivalent Debt and, in each case, any Refinancing Indebtedness in respect of any of the foregoing;  provided  that, in each case under this clause (3) the Borrower shall have determined in good faith that such conditions and restrictions (x) are not materially more restrictive than such restrictions generally prevailing in the market for such Indebtedness at the time such Indebtedness is incurred and (y) will not affect the ability of the Borrower or any Restricted Subsidiary to make any payment required hereunder or the ability of the Borrower or any Restricted Subsidiary to take any action that would in the absence of such restriction or condition be required to satisfy the Collateral and Guarantee Requirement, (B) restrictions and conditions existing on the 2024 Restatement Effective Date identified on Schedule 6.10 (but shall apply to any amendment or modification expanding the scope of, any such restriction or condition), (C) in the case of any Restricted Subsidiary 

@@ -1,0 +1,175 @@
+{
+  "ebitda_definition": {
+    "ebitda_base_definition": "Consolidated Net Income plus certain deductions and minus certain inclusions",
+    "ebitda_base_citation": "Consolidated EBITDA\" means, for any period, for the Company and its Subsidiaries on a consolidated basis, an amount equal to Consolidated Net Income for such period  plus  (a) the following to the extent deducted in calculating such Consolidated Net Income... minus  (b) the following to the extent included in calculating such Consolidated Net Income",
+    "addbacks": [
+      {
+        "category": "Interest Charges",
+        "description": "Consolidated Net Interest Charges for such period",
+        "cap_or_limit": "None",
+        "citation": "(i) Consolidated Net Interest Charges for such period"
+      },
+      {
+        "category": "Income Taxes",
+        "description": "the provision for Federal, state, local and foreign income taxes payable by the Company and its Subsidiaries for such period",
+        "cap_or_limit": "None",
+        "citation": "(ii) the provision for Federal, state, local and foreign income taxes payable by the Company and its Subsidiaries for such period"
+      },
+      {
+        "category": "Depreciation and Amortization",
+        "description": "depreciation and amortization expense",
+        "cap_or_limit": "None",
+        "citation": "(iii) depreciation and amortization expense"
+      },
+      {
+        "category": "Non-Cash Compensation",
+        "description": "non-cash compensation expense",
+        "cap_or_limit": "None",
+        "citation": "(v) non-cash compensation expense"
+      },
+      {
+        "category": "Non-Recurring or Non-Operational Expenses",
+        "description": "other non-recurring or non-operational expenses of the Company and its Subsidiaries reducing such Consolidated Net Income which do not represent a cash item in such period or any future period",
+        "cap_or_limit": "None",
+        "citation": "(v) other non-recurring or non-operational expenses of the Company and its Subsidiaries reducing such Consolidated Net Income which do not represent a cash item in such period or any future period"
+      },
+      {
+        "category": "Transaction Costs",
+        "description": "customary costs and expenses incurred in connection with Acquisitions, Dispositions, Investments, issuances of Equity Interests and incurrences of Indebtedness, in each case to the extent any such transaction is not prohibited by the Loan Documents for such period",
+        "cap_or_limit": "None",
+        "citation": "(vi) customary costs and expenses incurred in connection with Acquisitions, Dispositions, Investments, issuances of Equity Interests and incurrences of Indebtedness, in each case to the extent any such transaction is not prohibited by the Loan Documents for such period"
+      },
+      {
+        "category": "Loan Documentation Costs",
+        "description": "customary costs and expenses incurred in connection with the negotiation, execution and delivery of the Loan Documents and the other transactions contemplated thereby occurring on or about the Amendment No. 2 Effective Date for such period",
+        "cap_or_limit": "None",
+        "citation": "(vii) customary costs and expenses incurred in connection with the negotiation, execution and delivery of the Loan Documents and the other transactions contemplated thereby occurring on or about the Amendment No. 2 Effective Date for such period"
+      }
+    ],
+    "exclusions_or_deductions": [
+      {
+        "description": "Federal, state, local and foreign income tax credits of the Company and its Subsidiaries for such period",
+        "citation": "(i) Federal, state, local and foreign income tax credits of the Company and its Subsidiaries for such period"
+      },
+      {
+        "description": "all non-cash items increasing Consolidated Net Income for such period",
+        "citation": "(ii) all non-cash items increasing Consolidated Net Income for such period"
+      }
+    ],
+    "overall_addback_cap": "None",
+    "overall_addback_cap_citation": "N/A"
+  },
+  "leverage_ratio": [
+    {
+      "ratio_name": "Consolidated Interest Coverage Ratio",
+      "ratio_definition": "Not provided in excerpt",
+      "ratio_definition_citation": "N/A",
+      "covenant_levels": [
+        {
+          "period": "end of any fiscal quarter",
+          "minimum_ratio": "2.25 to 1.00",
+          "citation": "Permit the Consolidated Interest Coverage Ratio as of the end of any fiscal quarter of the Company to be less than 2.25 to 1.00."
+        }
+      ],
+      "step_downs": "None",
+      "acquisition_adjustment": "None",
+      "acquisition_adjustment_citation": "N/A"
+    },
+    {
+      "ratio_name": "Consolidated Leverage Ratio",
+      "ratio_definition": "Not provided in excerpt",
+      "ratio_definition_citation": "N/A",
+      "covenant_levels": [
+        {
+          "period": "any time during any period of four consecutive fiscal quarters",
+          "maximum_ratio": "3.75 to 1.00",
+          "citation": "Permit the Consolidated Leverage Ratio at any time during any period of four consecutive fiscal quarters of the Company to be greater than 3.75 to 1.00"
+        }
+      ],
+      "step_downs": "None",
+      "acquisition_adjustment": "Following a Permitted Acquisition of $100,000,000 or more in a fiscal quarter (Trigger Quarter), the Consolidated Leverage Ratio may be greater than 3.75 to 1.00 but shall not exceed 4.25 to 1.00 during such Trigger Quarter and the next three fiscal quarters (Acquisition Compliance Period)",
+      "acquisition_adjustment_citation": "if at any time during any fiscal quarter the Consolidated Leverage Ratio is greater than 3.75 to 1.00 and a Permitted Acquisition involving aggregate cash consideration (including assumed Indebtedness) of an amount equal to $100,000,000 or more has been consummated within such fiscal quarter (a fiscal quarter in which such conditions are satisfied, a \"Trigger Quarter\"), then the Consolidated Leverage Ratio may be greater than 3.75 to 1.00 but shall not exceed 4.25 to 1.00 at any time during such Trigger Quarter and the next succeeding three fiscal quarters (such period, an \"Acquisition Compliance Period\")"
+    }
+  ],
+  "restricted_payments": {
+    "general_restriction": "Yes. The Company and its Subsidiaries are generally prohibited from declaring or making Restricted Payments, subject to specified exceptions. The restriction applies unless no Default has occurred and would not result from the action.",
+    "general_restriction_citation": "Declare or make, directly or indirectly, any Restricted Payment, or incur any obligation (contingent or otherwise) to do so, except that, so long as no Default shall have occurred and be continuing at the time of any action described below or would result therefrom",
+    "permitted_baskets": [
+      {
+        "basket_name": "Subsidiary Restricted Payments to Owners",
+        "conditions": "No Default has occurred and would not result. Payments must be made ratably according to respective holdings of Equity Interest type, or to extent necessary to permit discharge of consolidated tax liabilities.",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "each Subsidiary may make Restricted Payments to the Borrowers, the Subsidiary Guarantors and any other Person that owns an Equity Interest in such Subsidiary, (i) ratably according to their respective holdings of the type of Equity Interest in respect of which such Restricted Payment is being made and (ii) to the extent necessary to permit the Borrowers, the Subsidiary Guarantors and any other person that owns an Equity Interest in such Subsidiary to discharge their consolidated tax liabilities"
+      },
+      {
+        "basket_name": "Stock Dividends and Distributions",
+        "conditions": "No Default has occurred and would not result. Dividends or distributions must be payable solely in common stock or other common Equity Interests.",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "the Company and each Subsidiary may declare and make dividend payments or other distributions payable solely in the common stock or other common Equity Interests of such Person"
+      },
+      {
+        "basket_name": "Equity Interest Acquisitions with Stock Proceeds",
+        "conditions": "No Default has occurred and would not result. Purchases, redemptions or acquisitions must be made with proceeds received from substantially concurrent issue of new shares of common stock or other common Equity Interests.",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "the Company and each Subsidiary may purchase, redeem or otherwise acquire Equity Interests issued by it with the proceeds received from the substantially concurrent issue of new shares of its common stock or other common Equity Interests"
+      },
+      {
+        "basket_name": "Cash Dividends",
+        "conditions": "No Default has occurred and would not result. Aggregate amount in any fiscal year cannot exceed the greater of: (i) Base Dividend Basket plus unused amounts from prior years (commencing fiscal year ending December 26, 2025), or (ii) greatest amount that would not cause Consolidated Leverage Ratio to exceed 3.50 to 1.00 (determined on date of declaration/payment with Pro Forma Effect for related Indebtedness and other Specified Transactions).",
+        "dollar_cap": "Greater of (i) 50% of Consolidated Net Income for immediately preceding fiscal year or $25,000,000 (the 'Base Dividend Basket') plus unused portions from prior year, or (ii) amount not exceeding 3.50 to 1.00 leverage ratio",
+        "leverage_test": "3.50 to 1.00",
+        "citation": "the Company may declare or pay cash dividends to its stockholders so long as the aggregate amount of cash dividends declared or paid in any fiscal year pursuant to this clause (d) does not exceed the greater of (i) an amount equal to (1) the greater of (A) 50% of the Consolidated Net Income for the immediately preceding fiscal year or (B) $25,000,000 (such greater amount, the 'Base Dividend Basket') plus (2) commencing in the fiscal year ending December 26, 2025, any portion of the Base Dividend Basket not used in the immediately preceding fiscal year or (ii) the greatest amount which would not cause the Consolidated Leverage Ratio (determined as of the date of such declaration or payment, as the case may be, after giving Pro Forma Effect to any Indebtedness incurred in connection with such cash dividends and after giving Pro Forma Effect to each other Specified Transaction that has occurred since the first day of the most recently ended Measurement Period for which financial statements are available) to exceed 3.50 to 1.00"
+      },
+      {
+        "basket_name": "Equity Interest Redemptions",
+        "conditions": "No Default has occurred and would not result. Aggregate amount in any fiscal year cannot exceed the greater of: (i) Base Redemption Basket plus unused amounts from prior years (commencing fiscal year ending December 26, 2025), or (ii) greatest amount that would not cause Consolidated Leverage Ratio to exceed 3.50 to 1.00 (determined on date of purchase/redemption/acquisition with Pro Forma Effect for related Indebtedness and other Specified Transactions).",
+        "dollar_cap": "Greater of (i) $50,000,000 (the 'Base Redemption Basket') plus unused portions from prior year, or (ii) amount not exceeding 3.50 to 1.00 leverage ratio",
+        "leverage_test": "3.50 to 1.00",
+        "citation": "the Company may purchase, redeem or otherwise acquire for cash Equity Interests issued by it so long as the aggregate amount of purchases, redemptions and acquisitions made pursuant to this clause (e) does not exceed in any fiscal year the greater of (i) (A) $50,000,000 (the 'Base Redemption Basket') plus (B) commencing in the fiscal year ending December 26, 2025, any portion of the Base Redemption Basket not used in the immediately preceding fiscal year or (ii) the greatest amount which would not cause the Consolidated Leverage Ratio (determined as of the date of such purchase, redemption or acquisition after giving Pro Forma Effect to any Indebtedness incurred in connection therewith and after giving Pro Forma Effect to each other Specified Transaction that has occurred since the first day of the most recently ended Measurement Period for which financial statements are available) to exceed 3.50 to 1.00"
+      },
+      {
+        "basket_name": "Employee Equity Net Settlements",
+        "conditions": "No Default has occurred and would not result. Net settlements must be in respect of Equity Interests issued under Company's Omnibus Incentive Plan and must represent exercise price or tax withholding obligations.",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "the Company shall be permitted to make net settlements in respect of Equity Interests in the Company issued to employees under the Company's Omnibus Incentive Plan to the extent such amount represents the exercise price or tax withholding obligations of the Company"
+      }
+    ],
+    "builder_basket": "Yes. There is a builder basket for Cash Dividends and Equity Interest Redemptions. Commencing in the fiscal year ending December 26, 2025, any portion of the Base Dividend Basket (greater of 50% of Consolidated Net Income or $25,000,000) not used in the immediately preceding fiscal year can be carried forward and added to the current year's basket. Similarly, any portion of the Base Redemption Basket ($50,000,000) not used in the immediately preceding fiscal year can be carried forward and added to the current year's redemption basket.",
+    "builder_basket_citation": "commencing in the fiscal year ending December 26, 2025, any portion of the Base Dividend Basket not used in the immediately preceding fiscal year or (ii) the greatest amount which would not cause the Consolidated Leverage Ratio to exceed 3.50 to 1.00; and commencing in the fiscal year ending December 26, 2025, any portion of the Base Redemption Basket not used in the immediately preceding fiscal year or (ii) the greatest amount which would not cause the Consolidated Leverage Ratio to exceed 3.50 to 1.00"
+  },
+  "interest_coverage": [
+    {
+      "ratio_name": "Consolidated Interest Coverage Ratio",
+      "ratio_definition": "Not specified in provided text",
+      "ratio_definition_citation": "Not provided in this section",
+      "covenant_levels": [
+        {
+          "period": "end of any fiscal quarter",
+          "minimum_ratio": "2.25 to 1.00",
+          "citation": "Permit the Consolidated Interest Coverage Ratio as of the end of any fiscal quarter of the Company to be less than 2.25 to 1.00."
+        }
+      ]
+    },
+    {
+      "ratio_name": "Consolidated Leverage Ratio",
+      "ratio_definition": "Not specified in provided text",
+      "ratio_definition_citation": "Not provided in this section",
+      "covenant_levels": [
+        {
+          "period": "any time during any period of four consecutive fiscal quarters",
+          "maximum_ratio": "3.75 to 1.00",
+          "citation": "Permit the Consolidated Leverage Ratio at any time during any period of four consecutive fiscal quarters of the Company to be greater than 3.75 to 1.00"
+        },
+        {
+          "period": "Trigger Quarter and next three succeeding fiscal quarters (Acquisition Compliance Period)",
+          "maximum_ratio": "4.25 to 1.00",
+          "citation": "then the Consolidated Leverage Ratio may be greater than 3.75 to 1.00 but shall not exceed 4.25 to 1.00 at any time during such Trigger Quarter and the next succeeding three fiscal quarters"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "ebitda_comparison": {
+    "netscout": {
+      "num_addback_categories": 13,
+      "addback_categories": [
+        "Interest Expense",
+        "Tax Provision",
+        "Depreciation and Amortization",
+        "Extraordinary, Unusual or Non-Recurring Losses",
+        "Non-Cash Charges",
+        "Losses on Early Extinguishment",
+        "Pro Forma Adjustments",
+        "Nonrecurring Integration or Restructuring Expenses",
+        "One-Time Transactional Costs",
+        "Unrealized Mark-to-Market Losses",
+        "Non-Recurring Transaction Fees",
+        "Receivables Securitization Fees",
+        "Receivables Securitization Interest and Losses"
+      ],
+      "overall_cap": "25.00% of Consolidated EBITDA for categories (vii) and (viii) combined",
+      "num_exclusions": 8,
+      "has_synergy_addback": false,
+      "has_proforma_addback": true
+    },
+    "red_rock_resorts": {
+      "num_addback_categories": 13,
+      "addback_categories": [
+        "Taxes",
+        "Interest Expense",
+        "Debt and Equity Issuance Costs",
+        "Depreciation and Amortization",
+        "Pre-Opening Expenses",
+        "Restructuring and Non-Recurring Charges",
+        "Transaction-Related Fees and Expenses",
+        "Swap Contract Mark-to-Market Losses",
+        "Unrestricted Subsidiary Reimbursements",
+        "Restricted Payments to Holdco",
+        "Cost Savings and Operating Improvements",
+        "Insurance Proceeds",
+        "Cash Receipts Netting Non-Cash Gains"
+      ],
+      "overall_cap": "25.0% of Consolidated EBITDA for such Test Period (for cost savings and operating improvements addbacks under clause (c) and Section 1.05(c) combined)",
+      "num_exclusions": 4,
+      "has_synergy_addback": true,
+      "has_proforma_addback": false
+    },
+    "fresh_del_monte": {
+      "num_addback_categories": 7,
+      "addback_categories": [
+        "Interest Charges",
+        "Income Taxes",
+        "Depreciation and Amortization",
+        "Non-Cash Compensation",
+        "Non-Recurring or Non-Operational Expenses",
+        "Transaction Costs",
+        "Loan Documentation Costs"
+      ],
+      "overall_cap": "None",
+      "num_exclusions": 2,
+      "has_synergy_addback": false,
+      "has_proforma_addback": false
+    }
+  },
+  "leverage_comparison": {
+    "netscout": {
+      "ratio_name": "Total Net Leverage Ratio",
+      "covenant_levels": [
+        {
+          "period": "At time of payments",
+          "level": "3.50 to 1.00"
+        }
+      ],
+      "step_downs": "None",
+      "acquisition_adjustment": "None"
+    },
+    "red_rock_resorts": {
+      "ratio_name": "Not explicitly defined in provided section",
+      "covenant_levels": [
+        {
+          "period": "applicable period for Section 10.08",
+          "level": "Not specified in provided section"
+        }
+      ],
+      "step_downs": "None",
+      "acquisition_adjustment": "None"
+    },
+    "fresh_del_monte": {
+      "ratio_name": "Consolidated Leverage Ratio",
+      "covenant_levels": [
+        {
+          "period": "any time during any period of four consecutive fiscal quarters",
+          "level": "3.75 to 1.00"
+        }
+      ],
+      "step_downs": "None",
+      "acquisition_adjustment": "Following a Permitted Acquisition of $100,000,000 or more in a fiscal quarter (Trigger Quarter), the Consolidated Leverage Ratio may be greater than 3.75 to 1.00 but shall not exceed 4.25 to 1.00 during such Trigger Quarter and the next three fiscal quarters (Acquisition Compliance Period)"
+    }
+  },
+  "restricted_payments_comparison": {
+    "netscout": {
+      "num_permitted_baskets": 10,
+      "has_leverage_based_basket": true,
+      "has_builder_basket": true,
+      "builder_basket_summary": "Yes. The Borrower may make additional cash Restricted Payments in an unlimited amount if the Total Net Leverage Ratio at the time such Restricted Payments are made, calculated on a Pro Forma Basis giv",
+      "basket_names": [
+        "Equity Dividends",
+        "Subsidiary Distributions",
+        "Stock Option Exercise",
+        "Fractional Share Payments",
+        "Employee Benefit Plans",
+        "Share Repurchases",
+        "Additional Cash Restricted Payments - Cumulative",
+        "Additional Cash Restricted Payments - Available Amount or Leverage Based",
+        "Accelerated Share Repurchase Program",
+        "Call Spread/Capped Call Payments"
+      ],
+      "baskets_with_dollar_caps": [
+        {
+          "name": "Employee Benefit Plans",
+          "cap": "$10,000,000 per fiscal year with carryover of unused amounts to next fiscal year"
+        },
+        {
+          "name": "Share Repurchases",
+          "cap": "Greater of $75,000,000 or 37.50% of Consolidated EBITDA for prior fiscal year, with carryover for one year of up to 50.00% of unused amounts"
+        },
+        {
+          "name": "Additional Cash Restricted Payments - Cumulative",
+          "cap": "$75,000,000 aggregate cumulative amount"
+        },
+        {
+          "name": "Additional Cash Restricted Payments - Available Amount or Leverage Based",
+          "cap": "Up to Available Amount if condition (x) met; unlimited if condition (y) met"
+        },
+        {
+          "name": "Accelerated Share Repurchase Program",
+          "cap": "$300,000,000 aggregate amount"
+        }
+      ]
+    },
+    "red_rock_resorts": {
+      "num_permitted_baskets": 16,
+      "has_leverage_based_basket": true,
+      "has_builder_basket": true,
+      "builder_basket_summary": "Yes. The 'Available Amount' basket functions as a cumulative credit/builder basket. Under clause (j), Borrower and its Restricted Subsidiaries may make Restricted Payments in an aggregate amount not t",
+      "basket_names": [
+        "Permitted pursuant to Section 2.09(b)(ii)",
+        "Payments to Borrower or Wholly Owned Subsidiaries",
+        "Proportionate Share Payments",
+        "Disqualified Capital Stock",
+        "Management Stock Repurchases",
+        "Equity Repurchase and Tax Withholding",
+        "Fractional Shares and Dissenting Stockholders",
+        "Initial Restricted Payment Base Amount and Project Reimbursement Amount",
+        "Available Amount Basket",
+        "Leverage-Based Basket",
+        "Swap Contract Payments",
+        "Excluded Contributions",
+        "Gaming/Racing Authority Repurchase",
+        "Holdco and RRR Payments",
+        "Annual Restricted Payment Basket",
+        "Partnership Tax Distributions"
+      ],
+      "baskets_with_dollar_caps": [
+        {
+          "name": "Management Stock Repurchases",
+          "cap": "greater of $20.0 million and 3.0% of Consolidated EBITDA"
+        },
+        {
+          "name": "Initial Restricted Payment Base Amount and Project Reimbursement Amount",
+          "cap": "Initial Restricted Payment Base Amount plus Project Reimbursement Amount"
+        },
+        {
+          "name": "Available Amount Basket",
+          "cap": "Available Amount at time of Restricted Payment"
+        },
+        {
+          "name": "Excluded Contributions",
+          "cap": "Amount of Excluded Contributions"
+        },
+        {
+          "name": "Annual Restricted Payment Basket",
+          "cap": "$120.0 million per fiscal year"
+        },
+        {
+          "name": "Partnership Tax Distributions",
+          "cap": "Amount sufficient to pay taxes and Tax Distributions"
+        }
+      ]
+    },
+    "fresh_del_monte": {
+      "num_permitted_baskets": 6,
+      "has_leverage_based_basket": true,
+      "has_builder_basket": true,
+      "builder_basket_summary": "Yes. There is a builder basket for Cash Dividends and Equity Interest Redemptions. Commencing in the fiscal year ending December 26, 2025, any portion of the Base Dividend Basket (greater of 50% of Co",
+      "basket_names": [
+        "Subsidiary Restricted Payments to Owners",
+        "Stock Dividends and Distributions",
+        "Equity Interest Acquisitions with Stock Proceeds",
+        "Cash Dividends",
+        "Equity Interest Redemptions",
+        "Employee Equity Net Settlements"
+      ],
+      "baskets_with_dollar_caps": [
+        {
+          "name": "Cash Dividends",
+          "cap": "Greater of (i) 50% of Consolidated Net Income for immediately preceding fiscal year or $25,000,000 (the 'Base Dividend Basket') plus unused portions from prior year, or (ii) amount not exceeding 3.50 to 1.00 leverage ratio"
+        },
+        {
+          "name": "Equity Interest Redemptions",
+          "cap": "Greater of (i) $50,000,000 (the 'Base Redemption Basket') plus unused portions from prior year, or (ii) amount not exceeding 3.50 to 1.00 leverage ratio"
+        }
+      ]
+    }
+  },
+  "coverage_comparison": {
+    "netscout": {
+      "ratio_name": "N/A",
+      "has_coverage_test": false,
+      "minimum_ratio": "N/A"
+    },
+    "red_rock_resorts": {
+      "ratio_name": "Interest Coverage Ratio",
+      "has_coverage_test": false,
+      "minimum_ratio": "N/A"
+    },
+    "fresh_del_monte": {
+      "ratio_name": "Consolidated Interest Coverage Ratio",
+      "has_coverage_test": true,
+      "minimum_ratio": "2.25 to 1.00"
+    }
+  },
+  "borrower_friendliness_scores": {
+    "netscout": {
+      "score": 4,
+      "max": 9,
+      "reasons": [
+        "Capped EBITDA add-backs (0)",
+        "13 add-back categories (+1)",
+        "10 RP baskets (+1)",
+        "Has unlimited RP basket (+1)",
+        "No interest coverage test (+1)"
+      ]
+    },
+    "red_rock_resorts": {
+      "score": 6,
+      "max": 9,
+      "reasons": [
+        "Capped EBITDA add-backs (0)",
+        "13 add-back categories (+1)",
+        "Has synergy/cost savings add-back (+2)",
+        "16 RP baskets (+2)",
+        "No interest coverage test (+1)"
+      ]
+    },
+    "fresh_del_monte": {
+      "score": 2,
+      "max": 9,
+      "reasons": [
+        "Uncapped EBITDA add-backs (+2)"
+      ]
+    }
+  }
+}

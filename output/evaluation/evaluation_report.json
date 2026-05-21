@@ -1,0 +1,71 @@
+{
+  "overall_accuracy": 91.7,
+  "total_correct": 55,
+  "total_checks": 60,
+  "by_company": {
+    "netscout": {
+      "accuracy": 89.5,
+      "correct": 17,
+      "total": 19
+    },
+    "red_rock_resorts": {
+      "accuracy": 85.0,
+      "correct": 17,
+      "total": 20
+    },
+    "fresh_del_monte": {
+      "accuracy": 100.0,
+      "correct": 21,
+      "total": 21
+    }
+  },
+  "by_section": {
+    "ebitda_definition": {
+      "correct": 32,
+      "total": 34,
+      "accuracy": 94.1
+    },
+    "leverage_ratio": {
+      "correct": 6,
+      "total": 7,
+      "accuracy": 85.7
+    },
+    "restricted_payments": {
+      "correct": 15,
+      "total": 15,
+      "accuracy": 100.0
+    },
+    "interest_coverage": {
+      "correct": 2,
+      "total": 4,
+      "accuracy": 50.0
+    }
+  },
+  "error_patterns": [
+    {
+      "company": "netscout",
+      "section": "ebitda_definition",
+      "error": "Missing key add-back: Taxes"
+    },
+    {
+      "company": "netscout",
+      "section": "ebitda_definition",
+      "error": "Missing key add-back: Extraordinary/Non-Recurring Losses"
+    },
+    {
+      "company": "red_rock_resorts",
+      "section": "leverage_ratio",
+      "error": "Ratio name: 'Not explicitly defined in provided section' vs expected 'Consolidated Total Net Leverage Ratio'"
+    },
+    {
+      "company": "red_rock_resorts",
+      "section": "interest_coverage",
+      "error": "Missing coverage test"
+    },
+    {
+      "company": "red_rock_resorts",
+      "section": "interest_coverage",
+      "error": "No coverage levels, expected 'not specified as maintenance covenant'"
+    }
+  ]
+}

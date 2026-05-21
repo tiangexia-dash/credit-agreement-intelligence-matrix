@@ -1,0 +1,75 @@
+e than 12 months after the date of determination and (ii) current maturities of  long-term  debt. 
+
+" Consolidated EBITDA " means, for any period, Consolidated Net Income for such period,  plus
+
+(a) without duplication and to the extent deducted in determining such Consolidated Net Income, the sum for the Borrower and the Restricted Subsidiaries (and, for the avoidance of doubt, eliminating all accounts of the Unrestricted Subsidiaries) of: 
+
+(i) consolidated interest expense for such period (including imputed interest expense in respect of Capital Lease Obligations);
+
+(ii) provision for Taxes based on income, profits or losses, including foreign withholding Taxes during such period; 
+
+(iii) all amounts attributable to depreciation and amortization for such period; 
+
+16 
+
+(iv) any extraordinary, unusual or
+
+non-recurring  losses, charges or expenses for such period, determined on a consolidated basis in accordance with GAAP;  provided  that, the aggregate amount of any such unusual and  non-recurring  losses, charges or expenses in respect of any Test Period shall not exceed 25.00% of Consolidated EBITDA for such Test Period; 
+
+(v) any  Non-Cash  Charges for such period; 
+
+(vi) any losses attributable to early extinguishment of Indebtedness or obligations under any Hedging Agreement; 
+
+(vii) Pro Forma Adjustments in connection with Permitted Acquisitions; 
+
+(viii) nonrecurring integration or restructuring expenses in connection with acquisitions or restructurings other than in the ordinary course of business (including severance costs, retention payments, change of control bonuses, relocation expenses and similar expenses); 
+
+(ix)  one-time
+
+out-of-pocket  transactional costs and expenses relating to Permitted Acquisitions, Investments outside the ordinary course of business, incurrence of Indebtedness (including any amendment or refinancing thereof), issuance of Equity Interests and Dispositions (regardless of whether consummated), including legal fees, advisory fees, and upfront financing fees; 
+
+(x) unrealized losses during such period attributable to the application of  "mark-to-market"  accounting in respect of any Convertible Notes or Hedging Agreement other than those relating to foreign currencies; 
+
+(xi)  non-recurring  fees and expenses incurred during such period in connection with the Transactions; 
+
+(xii) upfront fees or charges or losses arising from any Receivables Securitization for such period; 
+
+(xiii) any other amounts for such period comparable to or in the nature of interest under any Receivables Securitization, and losses on dispositions of Receivables and related assets in connection with any Receivables Securitization for such period; 
+
+provided  that, any cash payment or other reversals made with respect to any  Non-Cash  Charges added back in computing Consolidated EBITDA for any prior period pursuant to clause (a)(v) above (or that would have been added back had this Agreement been in effect during such prior period) shall be subtracted in computing Consolidated EBITDA for the period in which such cash payment or reversal is made;  provided
+
+further  that, the aggregate amount of all amounts under clauses (vii) and (viii) that increase Consolidated EBITDA in any Test Period (including, for avoidance of doubt, in connection with any calculation made hereunder on a Pro Forma Basis) shall not exceed, and shall be limited to, 25.00% of Consolidated EBITDA in respect of such Test Period (calculated after giving effect to such adjustments and with no carryover of unused amounts into any subsequent period); and  minus
+
+17 
+
+(b) without duplication and to the extent included in determining such Consolidated Net Income, the sum for the Borrower and the Restricted Subsidiaries (and, for the avoidance of doubt, eliminating all accounts of Unrestricted Subsidiaries) of: 
+
+(i) any extraordinary, unusual or  non-recurring  gains for such period, determined on a consolidated basis in accordance with GAAP; 
+
+(ii) any  non-cash  gains for such period, including any gains attributable to the early extinguishment of Indebtedness; 
+
+(iii) any net income Tax benefit for such period determined on a consolidated basis in accordance with GAAP; 
+
+(iv) any gains attributable to the early extinguishment of obligations under any Hedging Agreement other than those relating to foreign currencies; and 
+
+(v) unrealized gains during such period attributable to the application of  "mark-to-market"  accounting in respect of any Convertible Notes or Hedging Agreement;
+
+provided
+
+further  that, Consolidated EBITDA for any period shall be calculated so as to exclude (without duplication of any adjustment referred to above) the effect of: 
+
+(A) the cumulative effect of any changes in GAAP or accounting principles applied by management; and 
+
+(B) purchase accounting adjustments. 
+
+" Consolidated Net Income " means, for any period, the net income or loss of the Borrower and its consolidated Subsidiaries for such period, determined on a consolidated basis in accordance with GAAP (but, subject to clause (b) below, treating Unrestricted Subsidiaries as if they were not consolidated with the Borrower and otherwise eliminating all accounts of Unrestricted Subsidiaries);  provided  that, there shall be excluded (a) the income of any Person (other than the Borrower) that is not a consolidated Subsidiary except to the extent of the amount of cash dividends or other cash distributions constituting earned income actually paid by such Person to the Borrower or, subject to clauses (b) and (c) below, any consolidated Subsidiary during such period, (b) the income of, and any amounts referred to in clause (a) above paid to, any consolidated Subsidiary (other than the Borrower or any Subsidiary Loan Party) to the extent that, on the date of determination, the declaration or payment of cash dividends or other cash distributions by such Subsidiary (i) is not permitted without any prior approval of any Governmental Authority which, to the actual knowledge of the Borrower, would be required and that has not been obtained or under any law applicable to the Borrower or any such Subsidiary (in the case of any foreign law, of which the Borrower has knowledge) or (ii) is not permitted by the operation of the terms of the organizational documents of such Subsidiary or any agreement or other instrument binding upon the Borrower or any Subsidiary, unless such restrictions with respect to the payment of cash dividends and other cash distributions has been legally and effectively waived and (c) the income or loss of, and any amounts referred to in clause (a) above paid to, any consolidated Subsidiary that is not wholly owned by the Borrower to the extent such income or loss or such amounts are attributable to the  non-controlling  interest in such consolidated Subsidiary. 
+
+18 
+
+" Consolidated Total Assets " means, as of any date, the amount equal to the amount that would, in conformity with GAAP, be included as assets on the consolidated balance sheet of the Borrower and its consolidated subsidiaries as at such date (but treating Unrestricted Subsidiaries as if they were not consolidated with the Borrower and otherwise eliminating all accounts of Unrestricted Subsidiaries). 
+
+" Consolidated Total Debt " means, as of any date, without duplication, (a) the aggregate principal amount of Indebtedness of the Borrower and the Subsidiaries outstanding as of such date, in the amount that would be reflected on a balance sheet prepared as of such date on a consolidated basis in accordance with GAAP (but treating Unrestricted Subsidiaries as if they were not consolidated with the Borrower and otherwise eliminating all accounts of Unrestricted Subsidiaries) (and without giving effect to any election to value any Indebtedness at "fair value", as described in Section 1.04(a), or any other accounting principle that results in the amount of any such Indebtedness (other than zero coupon Indebtedness) to be below the stated principal amount of such Indebtedness) (including, for the avoidance of doubt, all outstanding obligations pursuant to any Receivables Securitization that would be characterized as principal if such Receivables Securitization were structured as a secured lending transaction rather than as a purchase),  plus  (b) the aggregate amount of Disqualified Equity Interests (the amount of which shall be equal to the value determined as set forth the definition of Indebtedness) of the Borrower and the Restricted Subsidiaries outstanding as of such date (other than Disqualified Equity Interests held by the Borrower or any Restricted Subsidiary). Notwithstanding anything to the contrary herein, Consolidated Total Debt will exclude (i) any Refinanced Debt outstanding on any determination date (and any amounts to be used to effect the refinancing, repurchase, purchase, redemption or repayment in connection with such Refinanced Debt shall not be included as Unrestricted Cash for purposes of this Agreement) so long as a notice of redemption of, or an offer to purchase, such Refinanced Debt has been given or made (and, in the case of an offer to purchase, not withdrawn) on or prior to such date (any such Refinanced Debt, " Defeased Debt "), (ii) any letter of credit, except to the extent of unreimbursed obligations in respect of drawn letters of credit, (iii) obligations under Hedging Agreements or (iv) obligations in respect of cash management obligations. 
+
+" Consolidated Total Secured Debt " means, as of any date, the aggregate principal amount of Consolidated Total Debt of the Borrower and the Restricted Subsidiaries outstanding as of such date that is secured by Liens on any property or assets of the Borrower or the Restricted Subsidiaries. 
+
+" Control " means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies, or the dismissal or appointment of the management of a Person, whether through the abil

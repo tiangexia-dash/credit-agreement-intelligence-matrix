@@ -1,0 +1,215 @@
+{
+  "ebitda_definition": {
+    "ebitda_base_definition": "Consolidated Net Income for such period, plus certain adjustments",
+    "ebitda_base_citation": "\"Consolidated EBITDA\" means, for any period, Consolidated Net Income for such period, plus",
+    "addbacks": [
+      {
+        "category": "Interest Expense",
+        "description": "consolidated interest expense for such period (including imputed interest expense in respect of Capital Lease Obligations)",
+        "cap_or_limit": "None",
+        "citation": "consolidated interest expense for such period (including imputed interest expense in respect of Capital Lease Obligations)"
+      },
+      {
+        "category": "Tax Provision",
+        "description": "provision for Taxes based on income, profits or losses, including foreign withholding Taxes during such period",
+        "cap_or_limit": "None",
+        "citation": "provision for Taxes based on income, profits or losses, including foreign withholding Taxes during such period"
+      },
+      {
+        "category": "Depreciation and Amortization",
+        "description": "all amounts attributable to depreciation and amortization for such period",
+        "cap_or_limit": "None",
+        "citation": "all amounts attributable to depreciation and amortization for such period"
+      },
+      {
+        "category": "Extraordinary, Unusual or Non-Recurring Losses",
+        "description": "any extraordinary, unusual or non-recurring losses, charges or expenses for such period, determined on a consolidated basis in accordance with GAAP",
+        "cap_or_limit": "25.00% of Consolidated EBITDA for such Test Period",
+        "citation": "any extraordinary, unusual or non-recurring losses, charges or expenses for such period, determined on a consolidated basis in accordance with GAAP; provided that, the aggregate amount of any such unusual and non-recurring losses, charges or expenses in respect of any Test Period shall not exceed 25.00% of Consolidated EBITDA for such Test Period"
+      },
+      {
+        "category": "Non-Cash Charges",
+        "description": "any Non-Cash Charges for such period",
+        "cap_or_limit": "None",
+        "citation": "any Non-Cash Charges for such period"
+      },
+      {
+        "category": "Losses on Early Extinguishment",
+        "description": "any losses attributable to early extinguishment of Indebtedness or obligations under any Hedging Agreement",
+        "cap_or_limit": "None",
+        "citation": "any losses attributable to early extinguishment of Indebtedness or obligations under any Hedging Agreement"
+      },
+      {
+        "category": "Pro Forma Adjustments",
+        "description": "Pro Forma Adjustments in connection with Permitted Acquisitions",
+        "cap_or_limit": "25.00% of Consolidated EBITDA in respect of such Test Period (combined with category viii)",
+        "citation": "Pro Forma Adjustments in connection with Permitted Acquisitions"
+      },
+      {
+        "category": "Nonrecurring Integration or Restructuring Expenses",
+        "description": "nonrecurring integration or restructuring expenses in connection with acquisitions or restructurings other than in the ordinary course of business (including severance costs, retention payments, change of control bonuses, relocation expenses and similar expenses)",
+        "cap_or_limit": "25.00% of Consolidated EBITDA in respect of such Test Period (combined with category vii)",
+        "citation": "nonrecurring integration or restructuring expenses in connection with acquisitions or restructurings other than in the ordinary course of business (including severance costs, retention payments, change of control bonuses, relocation expenses and similar expenses)"
+      },
+      {
+        "category": "One-Time Transactional Costs",
+        "description": "one-time out-of-pocket transactional costs and expenses relating to Permitted Acquisitions, Investments outside the ordinary course of business, incurrence of Indebtedness (including any amendment or refinancing thereof), issuance of Equity Interests and Dispositions (regardless of whether consummated), including legal fees, advisory fees, and upfront financing fees",
+        "cap_or_limit": "None",
+        "citation": "one-time out-of-pocket transactional costs and expenses relating to Permitted Acquisitions, Investments outside the ordinary course of business, incurrence of Indebtedness (including any amendment or refinancing thereof), issuance of Equity Interests and Dispositions (regardless of whether consummated), including legal fees, advisory fees, and upfront financing fees"
+      },
+      {
+        "category": "Unrealized Mark-to-Market Losses",
+        "description": "unrealized losses during such period attributable to the application of \"mark-to-market\" accounting in respect of any Convertible Notes or Hedging Agreement other than those relating to foreign currencies",
+        "cap_or_limit": "None",
+        "citation": "unrealized losses during such period attributable to the application of \"mark-to-market\" accounting in respect of any Convertible Notes or Hedging Agreement other than those relating to foreign currencies"
+      },
+      {
+        "category": "Non-Recurring Transaction Fees",
+        "description": "non-recurring fees and expenses incurred during such period in connection with the Transactions",
+        "cap_or_limit": "None",
+        "citation": "non-recurring fees and expenses incurred during such period in connection with the Transactions"
+      },
+      {
+        "category": "Receivables Securitization Fees",
+        "description": "upfront fees or charges or losses arising from any Receivables Securitization for such period",
+        "cap_or_limit": "None",
+        "citation": "upfront fees or charges or losses arising from any Receivables Securitization for such period"
+      },
+      {
+        "category": "Receivables Securitization Interest and Losses",
+        "description": "any other amounts for such period comparable to or in the nature of interest under any Receivables Securitization, and losses on dispositions of Receivables and related assets in connection with any Receivables Securitization for such period",
+        "cap_or_limit": "None",
+        "citation": "any other amounts for such period comparable to or in the nature of interest under any Receivables Securitization, and losses on dispositions of Receivables and related assets in connection with any Receivables Securitization for such period"
+      }
+    ],
+    "exclusions_or_deductions": [
+      {
+        "description": "Extraordinary, unusual or non-recurring gains for such period, determined on a consolidated basis in accordance with GAAP",
+        "citation": "any extraordinary, unusual or non-recurring gains for such period, determined on a consolidated basis in accordance with GAAP"
+      },
+      {
+        "description": "Non-cash gains for such period, including any gains attributable to the early extinguishment of Indebtedness",
+        "citation": "any non-cash gains for such period, including any gains attributable to the early extinguishment of Indebtedness"
+      },
+      {
+        "description": "Any net income Tax benefit for such period determined on a consolidated basis in accordance with GAAP",
+        "citation": "any net income Tax benefit for such period determined on a consolidated basis in accordance with GAAP"
+      },
+      {
+        "description": "Any gains attributable to the early extinguishment of obligations under any Hedging Agreement other than those relating to foreign currencies",
+        "citation": "any gains attributable to the early extinguishment of obligations under any Hedging Agreement other than those relating to foreign currencies"
+      },
+      {
+        "description": "Unrealized gains during such period attributable to the application of \"mark-to-market\" accounting in respect of any Convertible Notes or Hedging Agreement",
+        "citation": "unrealized gains during such period attributable to the application of \"mark-to-market\" accounting in respect of any Convertible Notes or Hedging Agreement"
+      },
+      {
+        "description": "The cumulative effect of any changes in GAAP or accounting principles applied by management",
+        "citation": "the cumulative effect of any changes in GAAP or accounting principles applied by management"
+      },
+      {
+        "description": "Purchase accounting adjustments",
+        "citation": "purchase accounting adjustments"
+      },
+      {
+        "description": "Cash payments or other reversals made with respect to any Non-Cash Charges added back in prior periods",
+        "citation": "any cash payment or other reversals made with respect to any Non-Cash Charges added back in computing Consolidated EBITDA for any prior period pursuant to clause (a)(v) above (or that would have been added back had this Agreement been in effect during such prior period) shall be subtracted in computing Consolidated EBITDA for the period in which such cash payment or reversal is made"
+      }
+    ],
+    "overall_addback_cap": "25.00% of Consolidated EBITDA for categories (vii) and (viii) combined",
+    "overall_addback_cap_citation": "the aggregate amount of all amounts under clauses (vii) and (viii) that increase Consolidated EBITDA in any Test Period (including, for avoidance of doubt, in connection with any calculation made hereunder on a Pro Forma Basis) shall not exceed, and shall be limited to, 25.00% of Consolidated EBITDA in respect of such Test Period (calculated after giving effect to such adjustments and with no carryover of unused amounts into any subsequent period)"
+  },
+  "leverage_ratio": {
+    "ratio_name": "Total Net Leverage Ratio",
+    "ratio_definition": "Not provided in this section",
+    "ratio_definition_citation": "N/A",
+    "covenant_levels": [
+      {
+        "period": "At time of payments",
+        "maximum_ratio": "3.50 to 1.00",
+        "citation": "in an unlimited amount if the Total Net Leverage Ratio at the time such payments are made, calculated on a Pro Forma Basis giving effect to such payments, is equal to or less than 3.50 to 1.00"
+      }
+    ],
+    "step_downs": "None",
+    "acquisition_adjustment": "None",
+    "acquisition_adjustment_citation": "N/A"
+  },
+  "restricted_payments": {
+    "general_restriction": "Yes. The Borrower will not declare or make, or agree to pay or make, directly or indirectly, any Restricted Payment, or incur any obligation (contingent or otherwise) to do so, except as specifically permitted by enumerated exceptions.",
+    "general_restriction_citation": "The Borrower will not, and will not permit any Restricted Subsidiary to, declare or make, or agree to pay or make, directly or indirectly, any Restricted Payment, or incur any obligation (contingent or otherwise) to do so, except that:",
+    "permitted_baskets": [
+      {
+        "basket_name": "Equity Dividends",
+        "conditions": "Dividends with respect to Equity Interests payable solely in additional Equity Interests permitted hereunder",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "the Borrower may declare and pay dividends with respect to its Equity Interests payable solely in additional Equity Interests permitted hereunder"
+      },
+      {
+        "basket_name": "Subsidiary Distributions",
+        "conditions": "Ratably to holders of such Equity Interests or its Equity Interests of the relevant class",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "any Restricted Subsidiary may declare and pay dividends or make other distributions with respect to its capital stock, partnership or membership interests or other similar Equity Interests, or make other Restricted Payments in respect of its Equity Interests, in each case ratably to the holders of such Equity Interests or its Equity Interests of the relevant class, as the case may be"
+      },
+      {
+        "basket_name": "Stock Option Exercise",
+        "conditions": "Equity Interests transferred in satisfaction of a portion of the exercise price of such options",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "the Borrower may purchase or otherwise acquire Equity Interests upon the exercise of stock options if such Equity Interests are transferred in satisfaction of a portion of the exercise price of such options"
+      },
+      {
+        "basket_name": "Fractional Share Payments",
+        "conditions": "Cash payments in lieu of fractional shares in connection with exercise or conversion of warrants, options, Convertible Notes or other securities",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "the Borrower may make cash payments in lieu of the issuance of fractional shares representing insignificant interests in the Borrower in connection with the exercise or conversion, as applicable, of warrants, options, Convertible Notes or other securities convertible into or exchangeable for Equity Interests in the Borrower"
+      },
+      {
+        "basket_name": "Employee Benefit Plans",
+        "conditions": "Pursuant to and in accordance with stock option plans or other benefit plans or agreements approved by the Borrower's board of directors for directors, officers or employees of the Borrower and the Subsidiaries",
+        "dollar_cap": "$10,000,000 per fiscal year with carryover of unused amounts to next fiscal year",
+        "leverage_test": "None",
+        "citation": "the Borrower may make Restricted Payments, not exceeding $10,000,000 in the aggregate during any fiscal year (with any unused amount of such base amount from any fiscal year available for use in the next succeeding fiscal year following the use of the base amount permitted by this clause (v) in such succeeding fiscal year), pursuant to and in accordance with stock option plans or other benefit plans or agreements approved by the Borrower's board of directors for directors, officers or employees of the Borrower and the Subsidiaries"
+      },
+      {
+        "basket_name": "Share Repurchases",
+        "conditions": "During any fiscal year, aggregate amount not to exceed the greater of two amounts",
+        "dollar_cap": "Greater of $75,000,000 or 37.50% of Consolidated EBITDA for prior fiscal year, with carryover for one year of up to 50.00% of unused amounts",
+        "leverage_test": "None",
+        "citation": "the Borrower may effect Share Repurchases during any fiscal year in an aggregate amount not to exceed the greater of (x) $75,000,000 and (y) 37.50% of Consolidated EBITDA for the prior fiscal year (with carryover for one year of up to 50.00% of unused amounts)"
+      },
+      {
+        "basket_name": "Additional Cash Restricted Payments - Cumulative",
+        "conditions": "None specified",
+        "dollar_cap": "$75,000,000 aggregate cumulative amount",
+        "leverage_test": "None",
+        "citation": "the Borrower may make additional cash Restricted Payments in an aggregate cumulative amount of $75,000,000"
+      },
+      {
+        "basket_name": "Additional Cash Restricted Payments - Available Amount or Leverage Based",
+        "conditions": "No Default shall have occurred and be continuing or would result therefrom, and either (x) Borrower in Pro Forma Compliance with Section 6.12 covenant or (y) Total Net Leverage Ratio equal to or less than 3.50 to 1.00",
+        "dollar_cap": "Up to Available Amount if condition (x) met; unlimited if condition (y) met",
+        "leverage_test": "Total Net Leverage Ratio equal to or less than 3.50 to 1.00",
+        "citation": "the Borrower may make additional cash Restricted Payments, so long as at the time each such Restricted Payment is made no Default shall have occurred and be continuing or would result therefrom, (x) in an amount not in excess of (and which shall utilize) the Available Amount at the time such Restricted Payments are made; provided that, the Borrower is at such time in Pro Forma Compliance with the covenant set forth in Section 6.12 after giving effect to such Restricted Payments, and (y) in an unlimited amount if the Total Net Leverage Ratio at the time such Restricted Payments are made, calculated on a Pro Forma Basis giving effect to such Restricted Payments, is equal to or less than 3.50 to 1.00"
+      },
+      {
+        "basket_name": "Accelerated Share Repurchase Program",
+        "conditions": "During period from 2024 Restatement Effective Date to Revolving Maturity Date",
+        "dollar_cap": "$300,000,000 aggregate amount",
+        "leverage_test": "None",
+        "citation": "during the period commencing on the 2024 Restatement Effective Date and ending on the Revolving Maturity Date, the Borrower may repurchase up to $300,000,000 in aggregate amount of outstanding shares of its common stock (including by way of tender offers, open market purchases, derivatives or other structured stock buyback transactions) pursuant to an accelerated share repurchase program or otherwise"
+      },
+      {
+        "basket_name": "Call Spread/Capped Call Payments",
+        "conditions": "Pursuant to terms of call spread, capped call or similar arrangement entered into in connection with issuance of Convertible Notes",
+        "dollar_cap": "None",
+        "leverage_test": "None",
+        "citation": "the Borrower may repurchase Equity Interests pursuant to the terms of or make other payments in respect of a call spread, capped call or similar arrangement entered into in connection with the issuance of Convertible Notes"
+      }
+    ],
+    "builder_basket": "Yes. The Borrower may make additional cash Restricted Payments in an unlimited amount if the Total Net Leverage Ratio at the time such Restricted Payments are made, calculated on a Pro Forma Basis giving effect to such Restricted Payments, is equal to or less than 3.50 to 1.00. Additionally, the Borrower may use the Available Amount for Restricted Payments so long as no Default shall have occurred and be continuing or would result therefrom, and the Borrower is in Pro Forma Compliance with the Section 6.12 covenant.",
+    "builder_basket_citation": "the Borrower may make additional cash Restricted Payments, so long as at the time each such Restricted Payment is made no Default shall have occurred and be continuing or would result therefrom, (x) in an amount not in excess of (and which shall utilize) the Available Amount at the time such Restricted Payments are made; provided that, the Borrower is at such time in Pro Forma Compliance with the covenant set forth in Section 6.12 after giving effect to such Restricted Payments, and (y) in an unlimited amount if the Total Net Leverage Ratio at the time such Restricted Payments are made, calculated on a Pro Forma Basis giving effect to such Restricted Payments, is equal to or less than 3.50 to 1.00"
+  }
+}
