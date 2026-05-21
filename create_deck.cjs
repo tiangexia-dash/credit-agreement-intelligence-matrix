@@ -125,7 +125,7 @@ const page1 = [
   new Paragraph({
     alignment: AlignmentType.CENTER,
     spacing: { after: 200 },
-    children: [new TextRun({ text: "3 SEC EDGAR Credit Agreements | 4-Layer Pipeline | 91.7% Extraction Accuracy", font: "Arial", size: 18, color: "888888" })],
+    children: [new TextRun({ text: "3 SEC EDGAR Credit Agreements | 4-Layer Pipeline | Prototype Evaluation Framework", font: "Arial", size: 18, color: "888888" })],
   }),
 ];
 
@@ -134,7 +134,7 @@ const page2 = [
   new Paragraph({ children: [new PageBreak()] }),
   sectionTitle("1. The Problem: Manual Covenant Extraction"),
   accentBar(),
-  bodyText("Credit analysts at top-tier firms spend 6-8 hours per agreement manually extracting covenant terms from 200-400 page leveraged loan documents. This is the single most time-intensive workflow in credit analysis."),
+  bodyText("Credit analysts can spend several hours per agreement manually extracting and comparing covenant terms from 200-400 page leveraged loan documents. This is one of the most repetitive and error-prone parts of private credit and leveraged loan document review."),
   subTitle("Current Workflow Pain Points"),
   bulletPoint("EBITDA definitions span 2-5 pages with 7-13 add-back categories, each with unique conditions and caps"),
   bulletPoint("Restricted payments sections contain 6-16 permitted baskets with nested conditional logic"),
@@ -143,7 +143,7 @@ const page2 = [
   bulletPoint("Manual process is error-prone: missed add-backs or miscounted baskets directly impact credit decisions"),
   subTitle("Why This Matters for Hebbia's Clients"),
   bodyText("Firms like BlackRock, KKR, and Carlyle manage portfolios of hundreds of credit agreements. Every new issuance or secondary trade requires rapid covenant comparison against existing holdings. The current manual approach doesn't scale."),
-  keyInsight("Key Insight: Covenant extraction is where Hebbia's citation-first architecture has the most impact — an analyst needs to trust the output before making a credit decision, and trust requires traceability to the source document."),
+  keyInsight("Key Insight: Covenant extraction is where citation-first AI has high impact — an analyst needs to trust the output before making a credit decision, and trust requires traceability to the source document."),
 ];
 
 // ===== PAGE 3: SOLUTION ARCHITECTURE =====
@@ -166,9 +166,9 @@ const page3 = [
   }),
   subTitle("Technical Approach"),
   bulletPoint("BeautifulSoup for HTML parsing with regex-based section isolation (handles TOC disambiguation)"),
-  bulletPoint("Claude API (Haiku 4.5) with domain-specific extraction prompts per section type"),
+  bulletPoint("Claude API (claude-haiku-4-5-20251001) with domain-specific extraction prompts per section type"),
   bulletPoint("Every extracted field requires a verbatim citation from the source text"),
-  bulletPoint("Borrower-friendliness scoring algorithm across 9 weighted dimensions"),
+  bulletPoint("Directional borrower-friendliness scoring across 6 dimensions (not a credit rating — designed to prioritize review)"),
   keyInsight("Design Principle: The pipeline mirrors how an experienced analyst reads an agreement — first identify the relevant sections, then extract structured data, then compare across agreements."),
 ];
 
@@ -190,6 +190,7 @@ const page4 = [
       ] }),
     ],
   }),
+  bodyText("Score is directional, not a credit rating. Dimensions: covenant type (incurrence vs. maintenance), EBITDA add-back scope, add-back cap presence, RP basket count, builder basket presence, coverage test presence. Designed to help analysts prioritize review, not replace judgment."),
   subTitle("EBITDA Definition Comparison"),
   new Table({
     width: { size: 9360, type: WidthType.DXA },
@@ -204,7 +205,7 @@ const page4 = [
       new TableRow({ children: [boldDataCell("Coverage Test", 2340, true), dataCell("None", 2340, true), dataCell("Defined, no min", 2340, true), dataCell(">= 2.25x quarterly", 2340, true)] }),
     ],
   }),
-  keyInsight("Key Finding: Del Monte has fewer but uncapped add-backs, while NETSCOUT has more add-back categories but caps them at 25%. This is a classic trade-off — Del Monte's lenders accepted fewer restrictions on what counts as EBITDA, but got a tighter leverage ratio (3.75x maintenance vs. NETSCOUT's 3.50x incurrence-only test)."),
+  keyInsight("Key Finding: Based on extracted fields, Del Monte appears to have fewer add-back categories but no overall cap, while NETSCOUT has more categories with a 25% cap. This suggests a trade-off worth analyst review — fewer restrictions on EBITDA definition paired with a tighter leverage ratio (3.75x maintenance vs. 3.50x incurrence-only)."),
 ];
 
 // ===== PAGE 5: EVALUATION =====
@@ -212,8 +213,8 @@ const page5 = [
   new Paragraph({ children: [new PageBreak()] }),
   sectionTitle("4. Evaluation: Accuracy & Error Analysis"),
   accentBar(),
-  subTitle("Overall Accuracy: 91.7%"),
-  bodyText("Evaluated against manually annotated ground truth across 60 verification checks."),
+  subTitle("Prototype Field-Level Evaluation: 91.7%"),
+  bodyText("91.7% field-level match against a manually reviewed answer key across 60 checks. This is not a production benchmark — it is a first-pass evaluation to identify which fields are reliable enough for auto-population versus human review."),
   new Table({
     width: { size: 9360, type: WidthType.DXA },
     columnWidths: [3120, 2080, 2080, 2080],
@@ -227,7 +228,7 @@ const page5 = [
   }),
   subTitle("Error Pattern Analysis"),
   bulletPoint("EBITDA definitions: Most reliably extracted — well-structured legal language maps cleanly to structured data"),
-  bulletPoint("Restricted payments: 100% accuracy on basket counting, leverage tests, and builder basket identification"),
+  bulletPoint("Restricted payments: 100% on tested high-level fields (basket count, leverage test presence, builder basket identification) — deeper RP analysis requires human review"),
   bulletPoint("Leverage ratios: Accurate when present, but some agreements define ratios in separate sections not captured by initial extraction"),
   bulletPoint("Interest coverage: Lowest accuracy — coverage tests are sometimes defined in financial covenant sections rather than standalone"),
   subTitle("Confidence Tiers for Production"),
@@ -249,7 +250,7 @@ const page6 = [
   sectionTitle("5. Implications for Hebbia"),
   accentBar(),
   subTitle("What This Prototype Demonstrates"),
-  bulletPoint("Speed: 3 agreements analyzed in < 2 minutes vs. 6-8 hours per agreement manually"),
+  bulletPoint("Speed: 3 agreements processed in < 2 minutes for first-pass extraction, compared with several hours of manual review for a comparable covenant summary"),
   bulletPoint("Consistency: Every agreement analyzed against the same framework, enabling true apples-to-apples comparison"),
   bulletPoint("Traceability: Every extracted field linked to exact source text — the foundation of analyst trust"),
   bulletPoint("Insight Discovery: Automated comparison reveals non-obvious patterns (the add-back cap vs. category count trade-off)"),
